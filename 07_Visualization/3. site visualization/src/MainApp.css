@@ -1,0 +1,144 @@
+/* frontend/src/MainApp.css */
+
+.main-app {
+  min-height: 100vh;
+  background: radial-gradient(ellipse at center, #1a1a2e 0%, #16213e 50%, #0f0f23 100%);
+  color: white;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* 별 배경 효과 */
+.main-app::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    radial-gradient(2px 2px at 20px 30px, #eee, transparent),
+    radial-gradient(2px 2px at 40px 70px, rgba(255,255,255,0.8), transparent),
+    radial-gradient(1px 1px at 90px 40px, #fff, transparent),
+    radial-gradient(1px 1px at 130px 80px, rgba(255,255,255,0.6), transparent),
+    radial-gradient(2px 2px at 160px 30px, #ddd, transparent);
+  background-repeat: repeat;
+  background-size: 200px 100px;
+  animation: sparkle 20s linear infinite;
+  pointer-events: none;
+  z-index: 1;
+}
+
+@keyframes sparkle {
+  0% { transform: translateY(0px); }
+  100% { transform: translateY(-100px); }
+}
+
+/* 네비게이션 바 */
+.main-navbar {
+  position: relative;
+  z-index: 100;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background: rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* ⭐ 새로 추가된 컨테이너 ⭐ */
+.nav-brand-container {
+    display: flex;
+    flex-direction: column; /* 세로 정렬 */
+    align-items: flex-start; /* 왼쪽 정렬 */
+}
+
+.logo-section {
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-brand {
+  font-size: 16px; /* 크기 조절 */
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.7);
+  letter-spacing: 2px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav-brand:hover {
+  color: #667eea;
+}
+
+.nav-tabs {
+  display: flex;
+  gap: 30px;
+}
+
+.nav-tab {
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  font-weight: 500;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 25px;
+  position: relative;
+}
+
+.nav-tab:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.nav-tab.active {
+  color: #fff;
+  background: linear-gradient(45deg, #667eea 0%, #764ba2 100%);
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+}
+
+/* 메인 콘텐츠 */
+.main-app-content {
+  position: relative;
+  z-index: 10;
+  min-height: calc(100vh - 80px);
+}
+
+.tab-content {
+  padding: 50px;
+  text-align: center;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 180px);
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+  .main-navbar {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .nav-tabs {
+    gap: 15px;
+  }
+  
+  .nav-tab {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+  
+  .tab-content {
+    padding: 30px 20px;
+    font-size: 20px;
+  }
+}
