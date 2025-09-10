@@ -1,0 +1,439 @@
+{
+  "year": 2024,
+  "month": 5,
+  "n_docs": 373,
+  "top_k": 30,
+  "results": {
+    "tfidf": [
+      {
+        "phrase": "정찰위성",
+        "score": 0.027002430574502693
+      },
+      {
+        "phrase": "안보리",
+        "score": 0.02401607174225927
+      },
+      {
+        "phrase": "지난",
+        "score": 0.020980490707922923
+      },
+      {
+        "phrase": "탄도미사일",
+        "score": 0.02014482827737092
+      },
+      {
+        "phrase": "발사",
+        "score": 0.0201432151071724
+      },
+      {
+        "phrase": "한중일",
+        "score": 0.01820964715030836
+      },
+      {
+        "phrase": "오물",
+        "score": 0.018169178434270072
+      },
+      {
+        "phrase": "대한",
+        "score": 0.01438826910458218
+      },
+      {
+        "phrase": "제보 카톡",
+        "score": 0.014261539089298421
+      },
+      {
+        "phrase": "제보 카톡 라인",
+        "score": 0.014261539089298421
+      },
+      {
+        "phrase": "풍선",
+        "score": 0.014040868509226277
+      },
+      {
+        "phrase": "카톡",
+        "score": 0.013748044231308165
+      },
+      {
+        "phrase": "카톡 라인",
+        "score": 0.013514570166605568
+      },
+      {
+        "phrase": "라인",
+        "score": 0.013293079532445644
+      },
+      {
+        "phrase": "제보",
+        "score": 0.013279379564554944
+      },
+      {
+        "phrase": "위해",
+        "score": 0.01307913287820218
+      },
+      {
+        "phrase": "최근",
+        "score": 0.012081667721239683
+      },
+      {
+        "phrase": "한반도",
+        "score": 0.011243822013583104
+      },
+      {
+        "phrase": "미사일",
+        "score": 0.011206854047967056
+      },
+      {
+        "phrase": "도발",
+        "score": 0.010657161044821792
+      },
+      {
+        "phrase": "교란",
+        "score": 0.01065647990841698
+      },
+      {
+        "phrase": "단거리",
+        "score": 0.01050872084348213
+      },
+      {
+        "phrase": "오늘",
+        "score": 0.010143427406362824
+      },
+      {
+        "phrase": "노동당",
+        "score": 0.010113946382456598
+      },
+      {
+        "phrase": "대남",
+        "score": 0.010074184494786689
+      },
+      {
+        "phrase": "통일부",
+        "score": 0.010039118578020582
+      },
+      {
+        "phrase": "오물 풍선",
+        "score": 0.009485108346318025
+      },
+      {
+        "phrase": "모든",
+        "score": 0.009307046040456766
+      },
+      {
+        "phrase": "위성",
+        "score": 0.00924837293820615
+      },
+      {
+        "phrase": "지난해",
+        "score": 0.009103040980650352
+      }
+    ],
+    "textrank": [],
+    "yake": [
+      {
+        "phrase": "북한이",
+        "score": 1713.4173288512716
+      },
+      {
+        "phrase": "밝혔다",
+        "score": 1351.0540162146985
+      },
+      {
+        "phrase": "북한의",
+        "score": 1262.6729886886892
+      },
+      {
+        "phrase": "보도했다",
+        "score": 571.958760853016
+      },
+      {
+        "phrase": "김정은",
+        "score": 560.6299979273347
+      },
+      {
+        "phrase": "말했다",
+        "score": 524.6935026473446
+      },
+      {
+        "phrase": "것으로",
+        "score": 507.8794472925051
+      },
+      {
+        "phrase": "이같이 밝혔다",
+        "score": 438.2659408662492
+      },
+      {
+        "phrase": "탄도미사일",
+        "score": 419.0464468950861
+      },
+      {
+        "phrase": "GPS",
+        "score": 417.2120295184869
+      },
+      {
+        "phrase": "안보리",
+        "score": 372.55831347504216
+      },
+      {
+        "phrase": "러시아",
+        "score": 359.020078314781
+      },
+      {
+        "phrase": "정찰위성",
+        "score": 323.55417787867526
+      },
+      {
+        "phrase": "북한은",
+        "score": 311.094005216221
+      },
+      {
+        "phrase": "북한의 탄도미사일",
+        "score": 287.92403451200585
+      },
+      {
+        "phrase": "조선중앙통신이",
+        "score": 280.0043012917375
+      },
+      {
+        "phrase": "북한의 GPS",
+        "score": 266.49163070963795
+      },
+      {
+        "phrase": "북한의 정찰위성",
+        "score": 264.0903213801996
+      },
+      {
+        "phrase": "노동당",
+        "score": 257.65715857312557
+      },
+      {
+        "phrase": "군사정찰위성",
+        "score": 254.02807036624085
+      },
+      {
+        "phrase": "발사를",
+        "score": 244.1839568555257
+      },
+      {
+        "phrase": "카톡 라인",
+        "score": 231.55927933180394
+      },
+      {
+        "phrase": "있다 밝혔다",
+        "score": 217.52376403557466
+      },
+      {
+        "phrase": "있다 말했다",
+        "score": 207.98936009504226
+      },
+      {
+        "phrase": "기사문의",
+        "score": 201.59997647660458
+      },
+      {
+        "phrase": "탄도미사일 기술을",
+        "score": 186.66098297292407
+      },
+      {
+        "phrase": "북한의 단거리 탄도미사일",
+        "score": 175.68097330552408
+      },
+      {
+        "phrase": "김정은 국무위원장이",
+        "score": 172.05251581163864
+      },
+      {
+        "phrase": "있다",
+        "score": 168.1783603594232
+      },
+      {
+        "phrase": "단거리 탄도미사일",
+        "score": 162.2420859524659
+      }
+    ],
+    "keybert": [
+      {
+        "phrase": "국방장관은 북한과 러시아",
+        "score": 0.8363
+      },
+      {
+        "phrase": "국방장관 러시아와 군사협력",
+        "score": 0.7918
+      },
+      {
+        "phrase": "장관은 북한에서 러시아로",
+        "score": 0.7851
+      },
+      {
+        "phrase": "대통령 북한과 러시아의",
+        "score": 0.7816
+      },
+      {
+        "phrase": "북한에서 러시아로 무기를",
+        "score": 0.7714
+      },
+      {
+        "phrase": "재무부는 북한과 러시아",
+        "score": 0.7688
+      },
+      {
+        "phrase": "대변인 러시아는 북한과",
+        "score": 0.7655
+      },
+      {
+        "phrase": "러시아 대통령의 북한",
+        "score": 0.7636
+      },
+      {
+        "phrase": "국가안보소통 보좌관 러시아가",
+        "score": 0.7632
+      },
+      {
+        "phrase": "도발과 러북 군사협력",
+        "score": 0.7619
+      },
+      {
+        "phrase": "국가안보소통보좌관 러시아는",
+        "score": 0.7584
+      },
+      {
+        "phrase": "북한이 러시아에 무기를",
+        "score": 0.7563
+      },
+      {
+        "phrase": "러북 군사협력",
+        "score": 0.7556
+      },
+      {
+        "phrase": "북한과 러시아의 무기",
+        "score": 0.7552
+      },
+      {
+        "phrase": "성명에서 러시아는 북한에",
+        "score": 0.7516
+      },
+      {
+        "phrase": "확대해온 북한이 푸틴",
+        "score": 0.7459
+      },
+      {
+        "phrase": "북한이 푸틴 러시아",
+        "score": 0.7454
+      },
+      {
+        "phrase": "러시아 대통령 북한과",
+        "score": 0.7451
+      },
+      {
+        "phrase": "러시아와 북한의 파트너",
+        "score": 0.7431
+      },
+      {
+        "phrase": "러시아와 북한의 프로그램을",
+        "score": 0.7413
+      },
+      {
+        "phrase": "푸틴 대통령의 북한",
+        "score": 0.7399
+      },
+      {
+        "phrase": "러북 군사협력 안보태세",
+        "score": 0.739
+      },
+      {
+        "phrase": "백악관 국가안보소통보좌관 러시아는",
+        "score": 0.7382
+      },
+      {
+        "phrase": "이와 러시아는 북한에",
+        "score": 0.7378
+      },
+      {
+        "phrase": "러시아 무기공급 북한",
+        "score": 0.7376
+      },
+      {
+        "phrase": "상임이사국인 러시아가 북한의",
+        "score": 0.7376
+      },
+      {
+        "phrase": "회담도 주북 러시아",
+        "score": 0.7373
+      },
+      {
+        "phrase": "러시아가 지난해 북한에",
+        "score": 0.7371
+      },
+      {
+        "phrase": "김정은 국무위원장의 러시아",
+        "score": 0.7362
+      },
+      {
+        "phrase": "러시아의 대북 군사기술",
+        "score": 0.7351
+      }
+    ]
+  },
+  "pairwise_metrics": {
+    "tfidf_vs_textrank": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "tfidf_vs_yake": {
+      "jaccard_phrase": 0.091,
+      "jaccard_token": 0.159,
+      "spearman_rank_on_common": 0.5,
+      "intersection_top": [
+        {
+          "phrase": "안보리",
+          "rank_in_tfidf": 2,
+          "rank_in_yake": 11
+        },
+        {
+          "phrase": "탄도미사일",
+          "rank_in_tfidf": 4,
+          "rank_in_yake": 9
+        },
+        {
+          "phrase": "정찰위성",
+          "rank_in_tfidf": 1,
+          "rank_in_yake": 13
+        },
+        {
+          "phrase": "카톡 라인",
+          "rank_in_tfidf": 13,
+          "rank_in_yake": 22
+        },
+        {
+          "phrase": "노동당",
+          "rank_in_tfidf": 24,
+          "rank_in_yake": 19
+        }
+      ]
+    },
+    "tfidf_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.014,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_yake": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "yake_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.061,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    }
+  }
+}

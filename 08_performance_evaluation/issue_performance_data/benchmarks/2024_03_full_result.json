@@ -1,0 +1,444 @@
+{
+  "year": 2024,
+  "month": 3,
+  "n_docs": 350,
+  "top_k": 30,
+  "results": {
+    "tfidf": [
+      {
+        "phrase": "지난",
+        "score": 0.022163412730003038
+      },
+      {
+        "phrase": "위해",
+        "score": 0.017241272464082222
+      },
+      {
+        "phrase": "탄도미사일",
+        "score": 0.01626009831854725
+      },
+      {
+        "phrase": "대한",
+        "score": 0.013896132512608171
+      },
+      {
+        "phrase": "월드컵",
+        "score": 0.012256658630570193
+      },
+      {
+        "phrase": "예선",
+        "score": 0.012229102743030481
+      },
+      {
+        "phrase": "미사일",
+        "score": 0.011943563100524251
+      },
+      {
+        "phrase": "김성남",
+        "score": 0.011871921274874079
+      },
+      {
+        "phrase": "지난달",
+        "score": 0.01158102481700503
+      },
+      {
+        "phrase": "한미",
+        "score": 0.011117864230811222
+      },
+      {
+        "phrase": "지난해",
+        "score": 0.010999661574011553
+      },
+      {
+        "phrase": "북러",
+        "score": 0.010206352086602918
+      },
+      {
+        "phrase": "통일부",
+        "score": 0.010137822675874103
+      },
+      {
+        "phrase": "평양",
+        "score": 0.009675203148271583
+      },
+      {
+        "phrase": "김영호",
+        "score": 0.009618928949414683
+      },
+      {
+        "phrase": "최근",
+        "score": 0.009593106574915786
+      },
+      {
+        "phrase": "발사",
+        "score": 0.009177064427460496
+      },
+      {
+        "phrase": "이번",
+        "score": 0.00903480044095877
+      },
+      {
+        "phrase": "노동당",
+        "score": 0.00902461859023459
+      },
+      {
+        "phrase": "인권",
+        "score": 0.008700576643470832
+      },
+      {
+        "phrase": "주재",
+        "score": 0.008374520351188604
+      },
+      {
+        "phrase": "핵무기",
+        "score": 0.008352604141501015
+      },
+      {
+        "phrase": "오전",
+        "score": 0.008152479305596988
+      },
+      {
+        "phrase": "제재",
+        "score": 0.008135806246850775
+      },
+      {
+        "phrase": "면서",
+        "score": 0.008045407219410772
+      },
+      {
+        "phrase": "한반도",
+        "score": 0.0080299476220896
+      },
+      {
+        "phrase": "앞서",
+        "score": 0.008025612866517214
+      },
+      {
+        "phrase": "국무부",
+        "score": 0.008004823425242863
+      },
+      {
+        "phrase": "방패",
+        "score": 0.00785025171559649
+      },
+      {
+        "phrase": "안보리",
+        "score": 0.007791127474635709
+      }
+    ],
+    "textrank": [],
+    "yake": [
+      {
+        "phrase": "북한이",
+        "score": 1232.4175173652748
+      },
+      {
+        "phrase": "밝혔다",
+        "score": 1149.2050541673827
+      },
+      {
+        "phrase": "북한의",
+        "score": 1130.6853259259078
+      },
+      {
+        "phrase": "보도했다",
+        "score": 874.227114673436
+      },
+      {
+        "phrase": "김정은",
+        "score": 715.7151767622923
+      },
+      {
+        "phrase": "것으로",
+        "score": 657.0962437413758
+      },
+      {
+        "phrase": "러시아",
+        "score": 556.6223704410955
+      },
+      {
+        "phrase": "말했다",
+        "score": 535.5997672156504
+      },
+      {
+        "phrase": "조선중앙통신이",
+        "score": 467.8565962779023
+      },
+      {
+        "phrase": "동해상으로 단거리 탄도미사일",
+        "score": 440.091423803466
+      },
+      {
+        "phrase": "북한은",
+        "score": 380.3586629073884
+      },
+      {
+        "phrase": "탄도미사일",
+        "score": 322.16109868238186
+      },
+      {
+        "phrase": "것으로 보인다고 밝혔다",
+        "score": 299.37194822332555
+      },
+      {
+        "phrase": "있다고",
+        "score": 252.74920176957053
+      },
+      {
+        "phrase": "북중미 월드컵",
+        "score": 241.0331657705539
+      },
+      {
+        "phrase": "김정은 국무위원장이",
+        "score": 233.95328750257127
+      },
+      {
+        "phrase": "북한이 김정은 국무위원장",
+        "score": 226.80609121644386
+      },
+      {
+        "phrase": "북중미 월드컵 아시아",
+        "score": 206.617128408369
+      },
+      {
+        "phrase": "김영호 통일부",
+        "score": 199.9061014856983
+      },
+      {
+        "phrase": "김정은 국무위원장의",
+        "score": 187.68920359243538
+      },
+      {
+        "phrase": "단거리 탄도미사일",
+        "score": 186.14300791477433
+      },
+      {
+        "phrase": "북한과",
+        "score": 175.65697554887834
+      },
+      {
+        "phrase": "노동당",
+        "score": 175.58819895312877
+      },
+      {
+        "phrase": "통일부",
+        "score": 173.50813021091363
+      },
+      {
+        "phrase": "월드컵",
+        "score": 171.26045957803885
+      },
+      {
+        "phrase": "전했다",
+        "score": 162.7786034274701
+      },
+      {
+        "phrase": "북중미 월드컵 아시아지역",
+        "score": 161.20276483214153
+      },
+      {
+        "phrase": "동해상으로",
+        "score": 160.3447919053987
+      },
+      {
+        "phrase": "지난해",
+        "score": 159.1267187083749
+      },
+      {
+        "phrase": "미사일",
+        "score": 157.74468576517293
+      }
+    ],
+    "keybert": [
+      {
+        "phrase": "제출한 북한의 핵시설",
+        "score": 0.7929
+      },
+      {
+        "phrase": "북한의 우주 체계도",
+        "score": 0.7848
+      },
+      {
+        "phrase": "북한 영변 핵시설",
+        "score": 0.78
+      },
+      {
+        "phrase": "북한이 군사적 위험을",
+        "score": 0.7787
+      },
+      {
+        "phrase": "북한의 핵시설",
+        "score": 0.7749
+      },
+      {
+        "phrase": "북한 핵문제가 안보",
+        "score": 0.7748
+      },
+      {
+        "phrase": "핵잠수함 군사정찰위성 북한이",
+        "score": 0.774
+      },
+      {
+        "phrase": "북한의 우주 역량에",
+        "score": 0.7734
+      },
+      {
+        "phrase": "북한의 군사적 위협이",
+        "score": 0.7728
+      },
+      {
+        "phrase": "북한의 군사적 위협은",
+        "score": 0.7703
+      },
+      {
+        "phrase": "대답이었다 북한이 핵무력",
+        "score": 0.7593
+      },
+      {
+        "phrase": "외부의 위협 북한",
+        "score": 0.7585
+      },
+      {
+        "phrase": "북한의 전술핵무기를",
+        "score": 0.7573
+      },
+      {
+        "phrase": "북한이 핵무력",
+        "score": 0.7563
+      },
+      {
+        "phrase": "북한 군사적위협",
+        "score": 0.7563
+      },
+      {
+        "phrase": "북한의 핵문제와",
+        "score": 0.7563
+      },
+      {
+        "phrase": "북한 핵문제가",
+        "score": 0.7548
+      },
+      {
+        "phrase": "북한의 핵문제와 대외관계",
+        "score": 0.7547
+      },
+      {
+        "phrase": "북한의 안보 우려를",
+        "score": 0.7544
+      },
+      {
+        "phrase": "북핵 문제와 북한",
+        "score": 0.7532
+      },
+      {
+        "phrase": "최근 북한 핵문제가",
+        "score": 0.7527
+      },
+      {
+        "phrase": "북한이 핵무기를",
+        "score": 0.7525
+      },
+      {
+        "phrase": "핵무장을 북한과",
+        "score": 0.7516
+      },
+      {
+        "phrase": "수석부소장이 북한이 핵보유국",
+        "score": 0.7512
+      },
+      {
+        "phrase": "북한은 핵무기를",
+        "score": 0.7507
+      },
+      {
+        "phrase": "북한이 영변 핵단지",
+        "score": 0.7506
+      },
+      {
+        "phrase": "북한 핵문제",
+        "score": 0.7505
+      },
+      {
+        "phrase": "북한이 핵무기 실험을",
+        "score": 0.75
+      },
+      {
+        "phrase": "대북고위관리는 북한이 핵무기",
+        "score": 0.7496
+      },
+      {
+        "phrase": "관련해 북한의 핵보유를",
+        "score": 0.7496
+      }
+    ]
+  },
+  "pairwise_metrics": {
+    "tfidf_vs_textrank": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "tfidf_vs_yake": {
+      "jaccard_phrase": 0.111,
+      "jaccard_token": 0.135,
+      "spearman_rank_on_common": 0.029,
+      "intersection_top": [
+        {
+          "phrase": "탄도미사일",
+          "rank_in_tfidf": 3,
+          "rank_in_yake": 12
+        },
+        {
+          "phrase": "월드컵",
+          "rank_in_tfidf": 5,
+          "rank_in_yake": 25
+        },
+        {
+          "phrase": "미사일",
+          "rank_in_tfidf": 7,
+          "rank_in_yake": 30
+        },
+        {
+          "phrase": "통일부",
+          "rank_in_tfidf": 13,
+          "rank_in_yake": 24
+        },
+        {
+          "phrase": "지난해",
+          "rank_in_tfidf": 11,
+          "rank_in_yake": 29
+        },
+        {
+          "phrase": "노동당",
+          "rank_in_tfidf": 19,
+          "rank_in_yake": 23
+        }
+      ]
+    },
+    "tfidf_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.029,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_yake": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "yake_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.06,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    }
+  }
+}

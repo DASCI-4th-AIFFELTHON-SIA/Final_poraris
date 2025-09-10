@@ -1,0 +1,424 @@
+{
+  "year": 2024,
+  "month": 11,
+  "n_docs": 692,
+  "top_k": 30,
+  "results": {
+    "tfidf": [
+      {
+        "phrase": "파병",
+        "score": 0.037831239799050134
+      },
+      {
+        "phrase": "쿠르스크",
+        "score": 0.030474191877841405
+      },
+      {
+        "phrase": "지난",
+        "score": 0.019734123916844683
+      },
+      {
+        "phrase": "전투",
+        "score": 0.019228398666415288
+      },
+      {
+        "phrase": "우크라이나",
+        "score": 0.018071908696353348
+      },
+      {
+        "phrase": "지난달",
+        "score": 0.015242051161786823
+      },
+      {
+        "phrase": "트럼프",
+        "score": 0.014773734246942482
+      },
+      {
+        "phrase": "위해",
+        "score": 0.013942458327571213
+      },
+      {
+        "phrase": "북러",
+        "score": 0.01297764734878862
+      },
+      {
+        "phrase": "대한",
+        "score": 0.01288772044976413
+      },
+      {
+        "phrase": "러시아",
+        "score": 0.012605547598854752
+      },
+      {
+        "phrase": "병력",
+        "score": 0.012080946382995198
+      },
+      {
+        "phrase": "대륙간탄도미사일",
+        "score": 0.011654474524726953
+      },
+      {
+        "phrase": "대선",
+        "score": 0.01128925437339925
+      },
+      {
+        "phrase": "대응",
+        "score": 0.010752467772304123
+      },
+      {
+        "phrase": "이번",
+        "score": 0.010417559349991884
+      },
+      {
+        "phrase": "전쟁",
+        "score": 0.010272820663113198
+      },
+      {
+        "phrase": "탄도미사일",
+        "score": 0.010183289538625516
+      },
+      {
+        "phrase": "미사일",
+        "score": 0.009940250106571456
+      },
+      {
+        "phrase": "발사",
+        "score": 0.009780876879531272
+      },
+      {
+        "phrase": "신형",
+        "score": 0.00964738910582357
+      },
+      {
+        "phrase": "군사",
+        "score": 0.00927786039088414
+      },
+      {
+        "phrase": "제보 카톡",
+        "score": 0.009211898442221655
+      },
+      {
+        "phrase": "제보 카톡 라인",
+        "score": 0.009211898442221655
+      },
+      {
+        "phrase": "가운데",
+        "score": 0.009188379946214123
+      },
+      {
+        "phrase": "인권",
+        "score": 0.008966564068692505
+      },
+      {
+        "phrase": "최근",
+        "score": 0.008886439232568806
+      },
+      {
+        "phrase": "중인",
+        "score": 0.008805367643708607
+      },
+      {
+        "phrase": "안보리",
+        "score": 0.008778507813488576
+      },
+      {
+        "phrase": "카톡 라인",
+        "score": 0.008729411817723624
+      }
+    ],
+    "textrank": [],
+    "yake": [
+      {
+        "phrase": "ICBM",
+        "score": 5975.861311238595
+      },
+      {
+        "phrase": "러시아",
+        "score": 5218.765304562246
+      },
+      {
+        "phrase": "대륙간탄도미사일 ICBM",
+        "score": 4319.785801937955
+      },
+      {
+        "phrase": "우크라이나",
+        "score": 3285.318500190863
+      },
+      {
+        "phrase": "북한군",
+        "score": 3120.8277637889823
+      },
+      {
+        "phrase": "러시아 쿠르스크",
+        "score": 2823.81789931549
+      },
+      {
+        "phrase": "북한의 대륙간탄도미사일 ICBM",
+        "score": 2554.936199320533
+      },
+      {
+        "phrase": "러시아 쿠르스크 지역에",
+        "score": 2067.3407679629286
+      },
+      {
+        "phrase": "러시아에 파병된 북한군",
+        "score": 2017.1105782732689
+      },
+      {
+        "phrase": "볼로디미르 젤렌스키 우크라이나",
+        "score": 1887.113582722835
+      },
+      {
+        "phrase": "북한의",
+        "score": 1628.7797459045778
+      },
+      {
+        "phrase": "북한의 ICBM",
+        "score": 1600.435245008912
+      },
+      {
+        "phrase": "젤렌스키 우크라이나 대통령은",
+        "score": 1547.9277724981705
+      },
+      {
+        "phrase": "것으로",
+        "score": 1514.7631168625014
+      },
+      {
+        "phrase": "북한이",
+        "score": 1389.6254474982343
+      },
+      {
+        "phrase": "젤렌스키 우크라이나",
+        "score": 1369.7585761856765
+      },
+      {
+        "phrase": "우크라이나 당국이 공개한",
+        "score": 1300.0312649739149
+      },
+      {
+        "phrase": "북한군의 러시아",
+        "score": 1194.9620117265943
+      },
+      {
+        "phrase": "북한의 러시아",
+        "score": 1155.012621292269
+      },
+      {
+        "phrase": "밝혔다",
+        "score": 1084.3723391919311
+      },
+      {
+        "phrase": "북한군 러시아",
+        "score": 1048.6259317006927
+      },
+      {
+        "phrase": "북한의 ICBM 발사에",
+        "score": 1038.6431500391873
+      },
+      {
+        "phrase": "러시아에 파병된",
+        "score": 970.2316209447897
+      },
+      {
+        "phrase": "최신형 ICBM",
+        "score": 852.6793888330391
+      },
+      {
+        "phrase": "북한군이",
+        "score": 839.7730975217745
+      },
+      {
+        "phrase": "북한군 병력이 러시아",
+        "score": 838.9665546116543
+      },
+      {
+        "phrase": "GPS",
+        "score": 832.7437791758779
+      },
+      {
+        "phrase": "파병된 북한군",
+        "score": 812.1581601273521
+      },
+      {
+        "phrase": "말했다",
+        "score": 792.5865653281531
+      },
+      {
+        "phrase": "러시아에",
+        "score": 769.4905609065893
+      }
+    ],
+    "keybert": [
+      {
+        "phrase": "러시아 외무장관과 회담한",
+        "score": 0.8443
+      },
+      {
+        "phrase": "러시아 국방장관 접견",
+        "score": 0.8331
+      },
+      {
+        "phrase": "있다 국방장관 러시아",
+        "score": 0.8272
+      },
+      {
+        "phrase": "러시아 외무장관의 전략대화",
+        "score": 0.8222
+      },
+      {
+        "phrase": "국방장관도 러시아가",
+        "score": 0.8138
+      },
+      {
+        "phrase": "러시아 외무장관과의 회담에서",
+        "score": 0.8121
+      },
+      {
+        "phrase": "국방장관 러시아",
+        "score": 0.8119
+      },
+      {
+        "phrase": "러시아 국방장관",
+        "score": 0.8095
+      },
+      {
+        "phrase": "러시아 외무장관 러시아를",
+        "score": 0.8063
+      },
+      {
+        "phrase": "러시아 외무장관은 러시아의",
+        "score": 0.8048
+      },
+      {
+        "phrase": "러시아 국방장관의",
+        "score": 0.8047
+      },
+      {
+        "phrase": "러시아 국방장관을",
+        "score": 0.8028
+      },
+      {
+        "phrase": "오스틴 국방장관도 러시아가",
+        "score": 0.8001
+      },
+      {
+        "phrase": "러시아 외무장관은 연설에서",
+        "score": 0.7996
+      },
+      {
+        "phrase": "외무장관도 러시아는",
+        "score": 0.7989
+      },
+      {
+        "phrase": "러시아 외무장관",
+        "score": 0.7986
+      },
+      {
+        "phrase": "러시아 외무장관과 리후이",
+        "score": 0.7985
+      },
+      {
+        "phrase": "러시아 국방장관을 접견하고",
+        "score": 0.7981
+      },
+      {
+        "phrase": "시비하 외무장관도 러시아는",
+        "score": 0.7965
+      },
+      {
+        "phrase": "했다 국방장관 러시아",
+        "score": 0.7933
+      },
+      {
+        "phrase": "국무부 부장관이 러시아",
+        "score": 0.7927
+      },
+      {
+        "phrase": "안보리 회의에서 러시아와",
+        "score": 0.7923
+      },
+      {
+        "phrase": "러시아 국방장관 러시아",
+        "score": 0.791
+      },
+      {
+        "phrase": "외무장관도 러시아는 이란과",
+        "score": 0.7909
+      },
+      {
+        "phrase": "벨로우소프 러시아 국방장관",
+        "score": 0.7895
+      },
+      {
+        "phrase": "장관과 러시아 군사대표단",
+        "score": 0.7895
+      },
+      {
+        "phrase": "러시아 외무차관도",
+        "score": 0.7893
+      },
+      {
+        "phrase": "러시아 동료 안보리",
+        "score": 0.7887
+      },
+      {
+        "phrase": "러시아 국방장관이 오늘",
+        "score": 0.7887
+      },
+      {
+        "phrase": "러시아 국방장관이",
+        "score": 0.7884
+      }
+    ]
+  },
+  "pairwise_metrics": {
+    "tfidf_vs_textrank": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "tfidf_vs_yake": {
+      "jaccard_phrase": 0.034,
+      "jaccard_token": 0.078,
+      "spearman_rank_on_common": null,
+      "intersection_top": [
+        {
+          "phrase": "우크라이나",
+          "rank_in_tfidf": 5,
+          "rank_in_yake": 4
+        },
+        {
+          "phrase": "러시아",
+          "rank_in_tfidf": 11,
+          "rank_in_yake": 2
+        }
+      ]
+    },
+    "tfidf_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.03,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_yake": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "yake_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.016,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    }
+  }
+}

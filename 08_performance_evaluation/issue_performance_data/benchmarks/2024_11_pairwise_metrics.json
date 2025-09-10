@@ -1,0 +1,49 @@
+{
+  "tfidf_vs_textrank": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "tfidf_vs_yake": {
+    "jaccard_phrase": 0.034,
+    "jaccard_token": 0.078,
+    "spearman_rank_on_common": null,
+    "intersection_top": [
+      {
+        "phrase": "우크라이나",
+        "rank_in_tfidf": 5,
+        "rank_in_yake": 4
+      },
+      {
+        "phrase": "러시아",
+        "rank_in_tfidf": 11,
+        "rank_in_yake": 2
+      }
+    ]
+  },
+  "tfidf_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.03,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_yake": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "yake_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.016,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  }
+}

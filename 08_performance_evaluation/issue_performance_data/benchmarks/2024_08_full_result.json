@@ -1,0 +1,434 @@
+{
+  "year": 2024,
+  "month": 8,
+  "n_docs": 281,
+  "top_k": 30,
+  "results": {
+    "tfidf": [
+      {
+        "phrase": "지난",
+        "score": 0.027439902245065522
+      },
+      {
+        "phrase": "귀순",
+        "score": 0.026314077689032267
+      },
+      {
+        "phrase": "파리",
+        "score": 0.021956245728968805
+      },
+      {
+        "phrase": "올림픽",
+        "score": 0.020938055215992395
+      },
+      {
+        "phrase": "통일 독트린",
+        "score": 0.015858982272968968
+      },
+      {
+        "phrase": "독트린",
+        "score": 0.01575738695052068
+      },
+      {
+        "phrase": "주민",
+        "score": 0.014777314721792152
+      },
+      {
+        "phrase": "여자",
+        "score": 0.013877629696312033
+      },
+      {
+        "phrase": "수해",
+        "score": 0.01372926592160058
+      },
+      {
+        "phrase": "통일부",
+        "score": 0.0131506226475253
+      },
+      {
+        "phrase": "파리 올림픽",
+        "score": 0.012298151482100674
+      },
+      {
+        "phrase": "지난달",
+        "score": 0.01219765692981491
+      },
+      {
+        "phrase": "올해",
+        "score": 0.011128534330386197
+      },
+      {
+        "phrase": "해리스",
+        "score": 0.01106571515140215
+      },
+      {
+        "phrase": "쓰레기",
+        "score": 0.011056758422671648
+      },
+      {
+        "phrase": "위해",
+        "score": 0.011053648570646012
+      },
+      {
+        "phrase": "남북",
+        "score": 0.010980265150026283
+      },
+      {
+        "phrase": "통일",
+        "score": 0.010809431604541517
+      },
+      {
+        "phrase": "제보 카톡",
+        "score": 0.010684223894591598
+      },
+      {
+        "phrase": "제보 카톡 라인",
+        "score": 0.010684223894591598
+      },
+      {
+        "phrase": "탁구",
+        "score": 0.010191616563585686
+      },
+      {
+        "phrase": "카톡 라인",
+        "score": 0.010124622075855148
+      },
+      {
+        "phrase": "카톡",
+        "score": 0.010122112824869316
+      },
+      {
+        "phrase": "트럼프",
+        "score": 0.010092251094816257
+      },
+      {
+        "phrase": "라인",
+        "score": 0.009958689387166911
+      },
+      {
+        "phrase": "제보",
+        "score": 0.009948425871891568
+      },
+      {
+        "phrase": "최근",
+        "score": 0.009540460577160988
+      },
+      {
+        "phrase": "정강",
+        "score": 0.009475621248292786
+      },
+      {
+        "phrase": "오늘",
+        "score": 0.009456339809948963
+      },
+      {
+        "phrase": "고성",
+        "score": 0.009430595876298718
+      }
+    ],
+    "textrank": [],
+    "yake": [
+      {
+        "phrase": "보도했다",
+        "score": 908.5935714343639
+      },
+      {
+        "phrase": "북한이",
+        "score": 710.4982066129514
+      },
+      {
+        "phrase": "밝혔다",
+        "score": 644.8806569783168
+      },
+      {
+        "phrase": "것으로",
+        "score": 557.941392433898
+      },
+      {
+        "phrase": "북한의",
+        "score": 479.71437062923724
+      },
+      {
+        "phrase": "조선중앙통신이",
+        "score": 446.52036290646043
+      },
+      {
+        "phrase": "김정은",
+        "score": 422.55463520687044
+      },
+      {
+        "phrase": "올림픽",
+        "score": 382.94492194560746
+      },
+      {
+        "phrase": "UFS",
+        "score": 347.1001242931519
+      },
+      {
+        "phrase": "러시아",
+        "score": 325.9933488869515
+      },
+      {
+        "phrase": "북한은",
+        "score": 242.0412598237854
+      },
+      {
+        "phrase": "MDL",
+        "score": 236.75639199011422
+      },
+      {
+        "phrase": "MDL 이북에서 남쪽으로",
+        "score": 230.9960150091609
+      },
+      {
+        "phrase": "남쪽으로 귀순한 것으로",
+        "score": 225.50801841506603
+      },
+      {
+        "phrase": "말했다",
+        "score": 217.07360585374948
+      },
+      {
+        "phrase": "따르면",
+        "score": 195.06360639691522
+      },
+      {
+        "phrase": "귀순한 것으로",
+        "score": 184.42909483953918
+      },
+      {
+        "phrase": "축전을 보냈다고 조선중앙통신이",
+        "score": 176.4942104411396
+      },
+      {
+        "phrase": "트럼프",
+        "score": 170.01729088515702
+      },
+      {
+        "phrase": "귀순한 것으로 확인됐다",
+        "score": 168.01832747492915
+      },
+      {
+        "phrase": "통일부",
+        "score": 160.34227329512015
+      },
+      {
+        "phrase": "북한에",
+        "score": 152.0021397961078
+      },
+      {
+        "phrase": "군사분계선 MDL",
+        "score": 147.56943264490462
+      },
+      {
+        "phrase": "대통령이",
+        "score": 147.400264993489
+      },
+      {
+        "phrase": "대통령은",
+        "score": 140.76231160589265
+      },
+      {
+        "phrase": "전했다",
+        "score": 139.02316211283735
+      },
+      {
+        "phrase": "보냈다고 조선중앙통신이",
+        "score": 133.0213186731645
+      },
+      {
+        "phrase": "지난달",
+        "score": 131.87550753400217
+      },
+      {
+        "phrase": "김정은 국무위원장에게",
+        "score": 129.18147859335264
+      },
+      {
+        "phrase": "김정은 국무위원장이",
+        "score": 122.90017286799903
+      }
+    ],
+    "keybert": [
+      {
+        "phrase": "북한 대사 이란",
+        "score": 0.8295
+      },
+      {
+        "phrase": "북한이 마철수 대사를",
+        "score": 0.7996
+      },
+      {
+        "phrase": "북한 대사",
+        "score": 0.7996
+      },
+      {
+        "phrase": "부임 대사 북한",
+        "score": 0.7996
+      },
+      {
+        "phrase": "주재 북한 대사",
+        "score": 0.7988
+      },
+      {
+        "phrase": "북한 대사로",
+        "score": 0.7953
+      },
+      {
+        "phrase": "북한 대사로 임명돼",
+        "score": 0.7862
+      },
+      {
+        "phrase": "대사 북한",
+        "score": 0.786
+      },
+      {
+        "phrase": "대사는 김정은 국무위원장이",
+        "score": 0.7857
+      },
+      {
+        "phrase": "주재 북한 대사관",
+        "score": 0.7789
+      },
+      {
+        "phrase": "대사 북한 주베트남대사",
+        "score": 0.7764
+      },
+      {
+        "phrase": "대표와 만나 북한",
+        "score": 0.7667
+      },
+      {
+        "phrase": "주재 북한 대사관에서",
+        "score": 0.7643
+      },
+      {
+        "phrase": "대사관 방문 북한",
+        "score": 0.7625
+      },
+      {
+        "phrase": "열고 북한대표부가 입주한",
+        "score": 0.7579
+      },
+      {
+        "phrase": "북한 국무위원장에게",
+        "score": 0.7572
+      },
+      {
+        "phrase": "초청 간담회에서 북한",
+        "score": 0.7566
+      },
+      {
+        "phrase": "북한 대사가",
+        "score": 0.756
+      },
+      {
+        "phrase": "김정은 북한 국무위원장에게",
+        "score": 0.7529
+      },
+      {
+        "phrase": "북한 대사관",
+        "score": 0.7517
+      },
+      {
+        "phrase": "열고 북한대표부가",
+        "score": 0.7506
+      },
+      {
+        "phrase": "북한 대사관에서",
+        "score": 0.7493
+      },
+      {
+        "phrase": "회의를 열고 북한대표부가",
+        "score": 0.7471
+      },
+      {
+        "phrase": "참관 북한",
+        "score": 0.7451
+      },
+      {
+        "phrase": "북한 대사관에서 근무하다가",
+        "score": 0.7449
+      },
+      {
+        "phrase": "북한 국무위원장이 참관한",
+        "score": 0.7447
+      },
+      {
+        "phrase": "북한 국무위원장과의",
+        "score": 0.7429
+      },
+      {
+        "phrase": "북한 국무위원장과의 정상회담",
+        "score": 0.7422
+      },
+      {
+        "phrase": "북한 국무위원장과",
+        "score": 0.7422
+      },
+      {
+        "phrase": "김정은 북한 국무위원장과의",
+        "score": 0.7417
+      }
+    ]
+  },
+  "pairwise_metrics": {
+    "tfidf_vs_textrank": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "tfidf_vs_yake": {
+      "jaccard_phrase": 0.071,
+      "jaccard_token": 0.078,
+      "spearman_rank_on_common": 0.4,
+      "intersection_top": [
+        {
+          "phrase": "올림픽",
+          "rank_in_tfidf": 4,
+          "rank_in_yake": 8
+        },
+        {
+          "phrase": "통일부",
+          "rank_in_tfidf": 10,
+          "rank_in_yake": 21
+        },
+        {
+          "phrase": "지난달",
+          "rank_in_tfidf": 12,
+          "rank_in_yake": 28
+        },
+        {
+          "phrase": "트럼프",
+          "rank_in_tfidf": 24,
+          "rank_in_yake": 19
+        }
+      ]
+    },
+    "tfidf_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_yake": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "yake_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.068,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    }
+  }
+}

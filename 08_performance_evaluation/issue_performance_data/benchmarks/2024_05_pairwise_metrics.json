@@ -1,0 +1,64 @@
+{
+  "tfidf_vs_textrank": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "tfidf_vs_yake": {
+    "jaccard_phrase": 0.091,
+    "jaccard_token": 0.159,
+    "spearman_rank_on_common": 0.5,
+    "intersection_top": [
+      {
+        "phrase": "안보리",
+        "rank_in_tfidf": 2,
+        "rank_in_yake": 11
+      },
+      {
+        "phrase": "탄도미사일",
+        "rank_in_tfidf": 4,
+        "rank_in_yake": 9
+      },
+      {
+        "phrase": "정찰위성",
+        "rank_in_tfidf": 1,
+        "rank_in_yake": 13
+      },
+      {
+        "phrase": "카톡 라인",
+        "rank_in_tfidf": 13,
+        "rank_in_yake": 22
+      },
+      {
+        "phrase": "노동당",
+        "rank_in_tfidf": 24,
+        "rank_in_yake": 19
+      }
+    ]
+  },
+  "tfidf_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.014,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_yake": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "yake_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.061,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  }
+}

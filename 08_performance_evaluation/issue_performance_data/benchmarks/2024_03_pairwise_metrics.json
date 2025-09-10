@@ -1,0 +1,69 @@
+{
+  "tfidf_vs_textrank": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "tfidf_vs_yake": {
+    "jaccard_phrase": 0.111,
+    "jaccard_token": 0.135,
+    "spearman_rank_on_common": 0.029,
+    "intersection_top": [
+      {
+        "phrase": "탄도미사일",
+        "rank_in_tfidf": 3,
+        "rank_in_yake": 12
+      },
+      {
+        "phrase": "월드컵",
+        "rank_in_tfidf": 5,
+        "rank_in_yake": 25
+      },
+      {
+        "phrase": "미사일",
+        "rank_in_tfidf": 7,
+        "rank_in_yake": 30
+      },
+      {
+        "phrase": "통일부",
+        "rank_in_tfidf": 13,
+        "rank_in_yake": 24
+      },
+      {
+        "phrase": "지난해",
+        "rank_in_tfidf": 11,
+        "rank_in_yake": 29
+      },
+      {
+        "phrase": "노동당",
+        "rank_in_tfidf": 19,
+        "rank_in_yake": 23
+      }
+    ]
+  },
+  "tfidf_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.029,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_yake": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "yake_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.06,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  }
+}

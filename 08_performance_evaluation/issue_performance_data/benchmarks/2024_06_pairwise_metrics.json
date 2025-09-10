@@ -1,0 +1,49 @@
+{
+  "tfidf_vs_textrank": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "tfidf_vs_yake": {
+    "jaccard_phrase": 0.034,
+    "jaccard_token": 0.085,
+    "spearman_rank_on_common": null,
+    "intersection_top": [
+      {
+        "phrase": "확성기",
+        "rank_in_tfidf": 6,
+        "rank_in_yake": 8
+      },
+      {
+        "phrase": "안보리",
+        "rank_in_tfidf": 17,
+        "rank_in_yake": 25
+      }
+    ]
+  },
+  "tfidf_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.032,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_yake": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "yake_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.029,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  }
+}

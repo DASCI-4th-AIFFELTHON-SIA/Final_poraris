@@ -1,0 +1,54 @@
+{
+  "tfidf_vs_textrank": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "tfidf_vs_yake": {
+    "jaccard_phrase": 0.053,
+    "jaccard_token": 0.069,
+    "spearman_rank_on_common": 1.0,
+    "intersection_top": [
+      {
+        "phrase": "탄도미사일",
+        "rank_in_tfidf": 1,
+        "rank_in_yake": 8
+      },
+      {
+        "phrase": "미사일",
+        "rank_in_tfidf": 2,
+        "rank_in_yake": 12
+      },
+      {
+        "phrase": "지난해",
+        "rank_in_tfidf": 3,
+        "rank_in_yake": 16
+      }
+    ]
+  },
+  "tfidf_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.016,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_yake": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "yake_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.067,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "tfidf_vs_textrank": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "tfidf_vs_yake": {
+    "jaccard_phrase": 0.111,
+    "jaccard_token": 0.128,
+    "spearman_rank_on_common": 0.086,
+    "intersection_top": [
+      {
+        "phrase": "순항미사일",
+        "rank_in_tfidf": 1,
+        "rank_in_yake": 9
+      },
+      {
+        "phrase": "미사일",
+        "rank_in_tfidf": 10,
+        "rank_in_yake": 16
+      },
+      {
+        "phrase": "노동당",
+        "rank_in_tfidf": 14,
+        "rank_in_yake": 14
+      },
+      {
+        "phrase": "지난해",
+        "rank_in_tfidf": 8,
+        "rank_in_yake": 27
+      },
+      {
+        "phrase": "통일부",
+        "rank_in_tfidf": 13,
+        "rank_in_yake": 28
+      },
+      {
+        "phrase": "김영호 통일부",
+        "rank_in_tfidf": 30,
+        "rank_in_yake": 15
+      }
+    ]
+  },
+  "tfidf_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.013,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_yake": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "textrank_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.0,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  },
+  "yake_vs_keybert": {
+    "jaccard_phrase": 0.0,
+    "jaccard_token": 0.041,
+    "spearman_rank_on_common": null,
+    "intersection_top": []
+  }
+}

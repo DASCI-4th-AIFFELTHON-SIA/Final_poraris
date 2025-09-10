@@ -1,0 +1,429 @@
+{
+  "year": 2024,
+  "month": 1,
+  "n_docs": 510,
+  "top_k": 30,
+  "results": {
+    "tfidf": [
+      {
+        "phrase": "탄도미사일",
+        "score": 0.024554660032590485
+      },
+      {
+        "phrase": "미사일",
+        "score": 0.021685783904002876
+      },
+      {
+        "phrase": "지난해",
+        "score": 0.02128752414343661
+      },
+      {
+        "phrase": "순항미사일",
+        "score": 0.02123012141419238
+      },
+      {
+        "phrase": "지난",
+        "score": 0.020746920213521407
+      },
+      {
+        "phrase": "최근",
+        "score": 0.0186385110856811
+      },
+      {
+        "phrase": "발사",
+        "score": 0.016218949783636943
+      },
+      {
+        "phrase": "대한",
+        "score": 0.015463960740579732
+      },
+      {
+        "phrase": "커비",
+        "score": 0.014781476699062155
+      },
+      {
+        "phrase": "무기",
+        "score": 0.01428053285838994
+      },
+      {
+        "phrase": "위해",
+        "score": 0.014011596291654846
+      },
+      {
+        "phrase": "여러",
+        "score": 0.013822270670337013
+      },
+      {
+        "phrase": "북러",
+        "score": 0.013783104895592431
+      },
+      {
+        "phrase": "한반도",
+        "score": 0.013640069069041314
+      },
+      {
+        "phrase": "해안포",
+        "score": 0.013513638840182945
+      },
+      {
+        "phrase": "올해",
+        "score": 0.013463930987755135
+      },
+      {
+        "phrase": "백악관",
+        "score": 0.01345682313113541
+      },
+      {
+        "phrase": "도발",
+        "score": 0.013337083158458784
+      },
+      {
+        "phrase": "새해",
+        "score": 0.01238838322613584
+      },
+      {
+        "phrase": "서해",
+        "score": 0.012342391844003271
+      },
+      {
+        "phrase": "오늘",
+        "score": 0.012337424574285443
+      },
+      {
+        "phrase": "연평도",
+        "score": 0.012060435390891983
+      },
+      {
+        "phrase": "어제",
+        "score": 0.011322953126473152
+      },
+      {
+        "phrase": "작년",
+        "score": 0.011032103185215707
+      },
+      {
+        "phrase": "해상",
+        "score": 0.010914654025389945
+      },
+      {
+        "phrase": "안보리",
+        "score": 0.010791489906312563
+      },
+      {
+        "phrase": "신형",
+        "score": 0.00997715005614579
+      },
+      {
+        "phrase": "제보 카톡",
+        "score": 0.009617014103289023
+      },
+      {
+        "phrase": "제보 카톡 라인",
+        "score": 0.009617014103289023
+      },
+      {
+        "phrase": "노동당",
+        "score": 0.009286191824980295
+      }
+    ],
+    "textrank": [],
+    "yake": [
+      {
+        "phrase": "북한이",
+        "score": 2777.4009440853624
+      },
+      {
+        "phrase": "북한의",
+        "score": 2178.605210752506
+      },
+      {
+        "phrase": "밝혔다",
+        "score": 1247.6925600251586
+      },
+      {
+        "phrase": "극초음속 고체연료 IRBM",
+        "score": 1091.5081813258873
+      },
+      {
+        "phrase": "북한이 러시아에 탄도미사일을",
+        "score": 1039.2515544432763
+      },
+      {
+        "phrase": "고체연료 IRBM 시험발사",
+        "score": 959.3153160345202
+      },
+      {
+        "phrase": "고체연료 IRBM",
+        "score": 927.3882753101714
+      },
+      {
+        "phrase": "탄도미사일",
+        "score": 857.7222345352961
+      },
+      {
+        "phrase": "것으로",
+        "score": 818.6511944681519
+      },
+      {
+        "phrase": "말했다",
+        "score": 759.6930258889048
+      },
+      {
+        "phrase": "러시아",
+        "score": 737.6290874777565
+      },
+      {
+        "phrase": "미사일",
+        "score": 733.4636352580931
+      },
+      {
+        "phrase": "김정은",
+        "score": 699.9246934398087
+      },
+      {
+        "phrase": "IRBM",
+        "score": 679.3535696148092
+      },
+      {
+        "phrase": "러시아가",
+        "score": 619.0031576447935
+      },
+      {
+        "phrase": "지난해",
+        "score": 589.4586143663043
+      },
+      {
+        "phrase": "북한의 탄도미사일",
+        "score": 579.9031135688564
+      },
+      {
+        "phrase": "우크라이나",
+        "score": 578.1695682242694
+      },
+      {
+        "phrase": "북한이 발사한 순항미사일",
+        "score": 536.6486862929563
+      },
+      {
+        "phrase": "보도했다",
+        "score": 492.899222744476
+      },
+      {
+        "phrase": "세르게이 라브로프 러시아",
+        "score": 475.50546465008165
+      },
+      {
+        "phrase": "북한이 지난해 러시아에",
+        "score": 464.97926413080563
+      },
+      {
+        "phrase": "당국은 북한이 지난해",
+        "score": 458.65862944442296
+      },
+      {
+        "phrase": "북한산 탄도미사일",
+        "score": 458.51960750907693
+      },
+      {
+        "phrase": "김정은 국무위원장이",
+        "score": 442.14016234633067
+      },
+      {
+        "phrase": "북한은",
+        "score": 437.622650303084
+      },
+      {
+        "phrase": "북한의 단거리 탄도미사일",
+        "score": 423.4291666503379
+      },
+      {
+        "phrase": "중장거리 고체연료 탄도미사일",
+        "score": 422.75746954835154
+      },
+      {
+        "phrase": "있다 밝혔다",
+        "score": 419.17919976524365
+      },
+      {
+        "phrase": "북한이 서해상으로 발사한",
+        "score": 399.6030971060558
+      }
+    ],
+    "keybert": [
+      {
+        "phrase": "미국은 김정은 북한",
+        "score": 0.8863
+      },
+      {
+        "phrase": "북한의 김정일 국방위원장",
+        "score": 0.8777
+      },
+      {
+        "phrase": "따르면 김정은 북한",
+        "score": 0.8702
+      },
+      {
+        "phrase": "의도는 김정은 북한",
+        "score": 0.8686
+      },
+      {
+        "phrase": "북한의 김정일",
+        "score": 0.8685
+      },
+      {
+        "phrase": "직면 김정은 북한",
+        "score": 0.8684
+      },
+      {
+        "phrase": "북한이 김정은 국무위원장의",
+        "score": 0.8683
+      },
+      {
+        "phrase": "북한은 최근 김정은",
+        "score": 0.8668
+      },
+      {
+        "phrase": "김정은과 북한 체제가",
+        "score": 0.8662
+      },
+      {
+        "phrase": "전문가들은 김정은 북한",
+        "score": 0.8654
+      },
+      {
+        "phrase": "북한이 김정은 국무위원장",
+        "score": 0.8645
+      },
+      {
+        "phrase": "주장했다 김정은 북한",
+        "score": 0.8642
+      },
+      {
+        "phrase": "북한이 김정은",
+        "score": 0.8637
+      },
+      {
+        "phrase": "북한의 세외부담은 김정은",
+        "score": 0.8629
+      },
+      {
+        "phrase": "현시점에서 김정은 북한",
+        "score": 0.8622
+      },
+      {
+        "phrase": "김정은 북한 국무위원장의",
+        "score": 0.8611
+      },
+      {
+        "phrase": "조정관은 김정은 북한",
+        "score": 0.8595
+      },
+      {
+        "phrase": "북한 김정은 미국",
+        "score": 0.8587
+      },
+      {
+        "phrase": "김정은 북한 국무위원장도",
+        "score": 0.8582
+      },
+      {
+        "phrase": "한다 북한의 김정일",
+        "score": 0.8565
+      },
+      {
+        "phrase": "김정은 북한 국무위원장은",
+        "score": 0.8559
+      },
+      {
+        "phrase": "정부는 북한 김정은",
+        "score": 0.853
+      },
+      {
+        "phrase": "회의다 북한 김정은",
+        "score": 0.853
+      },
+      {
+        "phrase": "시찰 김정은 북한",
+        "score": 0.8529
+      },
+      {
+        "phrase": "김정은 북한 국무위원장",
+        "score": 0.8528
+      },
+      {
+        "phrase": "중단 북한이 김정은",
+        "score": 0.8514
+      },
+      {
+        "phrase": "최고위원회의에서 김정은 북한",
+        "score": 0.851
+      },
+      {
+        "phrase": "정상회담에서 김정은 북한",
+        "score": 0.8497
+      },
+      {
+        "phrase": "북한이 2014년 김정은",
+        "score": 0.8486
+      },
+      {
+        "phrase": "관계가 북한 김정은",
+        "score": 0.8485
+      }
+    ]
+  },
+  "pairwise_metrics": {
+    "tfidf_vs_textrank": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "tfidf_vs_yake": {
+      "jaccard_phrase": 0.053,
+      "jaccard_token": 0.069,
+      "spearman_rank_on_common": 1.0,
+      "intersection_top": [
+        {
+          "phrase": "탄도미사일",
+          "rank_in_tfidf": 1,
+          "rank_in_yake": 8
+        },
+        {
+          "phrase": "미사일",
+          "rank_in_tfidf": 2,
+          "rank_in_yake": 12
+        },
+        {
+          "phrase": "지난해",
+          "rank_in_tfidf": 3,
+          "rank_in_yake": 16
+        }
+      ]
+    },
+    "tfidf_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.016,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_yake": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "yake_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.067,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    }
+  }
+}

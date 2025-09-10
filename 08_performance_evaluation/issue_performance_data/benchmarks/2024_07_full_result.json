@@ -1,0 +1,445 @@
+{
+  "year": 2024,
+  "month": 7,
+  "n_docs": 389,
+  "top_k": 30,
+  "results": {
+    "tfidf": [
+      {
+        "phrase": "풍선",
+        "score": 0.02543999824592575
+      },
+      {
+        "phrase": "오물",
+        "score": 0.024176322509962527
+      },
+      {
+        "phrase": "파리",
+        "score": 0.021924382894330574
+      },
+      {
+        "phrase": "지난",
+        "score": 0.01968326538716149
+      },
+      {
+        "phrase": "올림픽",
+        "score": 0.01824961087190401
+      },
+      {
+        "phrase": "위해",
+        "score": 0.017963918845435082
+      },
+      {
+        "phrase": "대남",
+        "score": 0.017417871516977795
+      },
+      {
+        "phrase": "확성기",
+        "score": 0.01707090961392967
+      },
+      {
+        "phrase": "대북 확성기",
+        "score": 0.015210224901667147
+      },
+      {
+        "phrase": "쓰레기",
+        "score": 0.015104693722383763
+      },
+      {
+        "phrase": "오물 풍선",
+        "score": 0.01500224572107452
+      },
+      {
+        "phrase": "대한",
+        "score": 0.014276755004300132
+      },
+      {
+        "phrase": "대북",
+        "score": 0.013964418866576503
+      },
+      {
+        "phrase": "파리 올림픽",
+        "score": 0.012167282522799623
+      },
+      {
+        "phrase": "프랑스",
+        "score": 0.011896618242548507
+      },
+      {
+        "phrase": "오전",
+        "score": 0.011592073421968503
+      },
+      {
+        "phrase": "북러",
+        "score": 0.011456429421098136
+      },
+      {
+        "phrase": "최근",
+        "score": 0.010986718073882882
+      },
+      {
+        "phrase": "파리올림픽",
+        "score": 0.010935078467640252
+      },
+      {
+        "phrase": "오늘",
+        "score": 0.010780051716171272
+      },
+      {
+        "phrase": "프랑스 파리",
+        "score": 0.010578760706290175
+      },
+      {
+        "phrase": "제보 카톡",
+        "score": 0.010458570286652478
+      },
+      {
+        "phrase": "제보 카톡 라인",
+        "score": 0.010458570286652478
+      },
+      {
+        "phrase": "대남 오물",
+        "score": 0.010292925797451892
+      },
+      {
+        "phrase": "카톡 라인",
+        "score": 0.009910787404944398
+      },
+      {
+        "phrase": "카톡",
+        "score": 0.00990833114999681
+      },
+      {
+        "phrase": "라인",
+        "score": 0.00974835925811591
+      },
+      {
+        "phrase": "제보",
+        "score": 0.009738312510972243
+      },
+      {
+        "phrase": "탄도미사일",
+        "score": 0.009642749138052307
+      },
+      {
+        "phrase": "어제",
+        "score": 0.009579303911117118
+      }
+    ],
+    "textrank": [],
+    "yake": [
+      {
+        "phrase": "북한의",
+        "score": 1519.0131299833483
+      },
+      {
+        "phrase": "북한이",
+        "score": 1443.5670321167208
+      },
+      {
+        "phrase": "밝혔다",
+        "score": 1143.869917336344
+      },
+      {
+        "phrase": "북한의 탄도미사일",
+        "score": 607.4476897128172
+      },
+      {
+        "phrase": "것으로",
+        "score": 489.6866051395185
+      },
+      {
+        "phrase": "말했다",
+        "score": 463.74874309421904
+      },
+      {
+        "phrase": "러시아",
+        "score": 459.60123149941
+      },
+      {
+        "phrase": "보도했다",
+        "score": 453.8058801355132
+      },
+      {
+        "phrase": "올림픽",
+        "score": 407.8526438669166
+      },
+      {
+        "phrase": "있다 밝혔다",
+        "score": 385.74673286671344
+      },
+      {
+        "phrase": "북한은",
+        "score": 357.759841634511
+      },
+      {
+        "phrase": "확성기 방송을",
+        "score": 346.25513749904917
+      },
+      {
+        "phrase": "확성기",
+        "score": 323.14725277397486
+      },
+      {
+        "phrase": "탄도미사일",
+        "score": 288.0738442359664
+      },
+      {
+        "phrase": "김정은",
+        "score": 275.0134466767754
+      },
+      {
+        "phrase": "이같이 밝혔다",
+        "score": 273.1058542002846
+      },
+      {
+        "phrase": "북한의 탄도미사일 발사가",
+        "score": 270.35052140552745
+      },
+      {
+        "phrase": "조선중앙통신이",
+        "score": 267.8680225030116
+      },
+      {
+        "phrase": "따르면",
+        "score": 247.29035039269522
+      },
+      {
+        "phrase": "오물풍선",
+        "score": 236.41865798793495
+      },
+      {
+        "phrase": "프랑스",
+        "score": 227.8373882351038
+      },
+      {
+        "phrase": "있다",
+        "score": 210.21246493635292
+      },
+      {
+        "phrase": "있다 말했다",
+        "score": 204.21391324510745
+      },
+      {
+        "phrase": "풍선을",
+        "score": 203.84314355633796
+      },
+      {
+        "phrase": "따르면 지난해 북한의",
+        "score": 181.9276635757672
+      },
+      {
+        "phrase": "카톡 라인",
+        "score": 181.3163921157596
+      },
+      {
+        "phrase": "지난해 북한의",
+        "score": 181.21182721439325
+      },
+      {
+        "phrase": "북한의 오물풍선",
+        "score": 177.14802478023725
+      },
+      {
+        "phrase": "기사문의",
+        "score": 165.10747967792648
+      },
+      {
+        "phrase": "지난달",
+        "score": 160.57840557160583
+      }
+    ],
+    "keybert": [
+      {
+        "phrase": "북한 미사일 발사시험",
+        "score": 0.8115
+      },
+      {
+        "phrase": "미사일 시험발사 북한",
+        "score": 0.7977
+      },
+      {
+        "phrase": "미사일 시험발사 북한은",
+        "score": 0.7854
+      },
+      {
+        "phrase": "전술탄도미사일 시험발사 북한",
+        "score": 0.7808
+      },
+      {
+        "phrase": "시험발사 북한",
+        "score": 0.7466
+      },
+      {
+        "phrase": "시험발사 북한은 미사일총국이",
+        "score": 0.74
+      },
+      {
+        "phrase": "시험발사 북한은",
+        "score": 0.706
+      },
+      {
+        "phrase": "탄도미사일 북한이 실패",
+        "score": 0.7025
+      },
+      {
+        "phrase": "북한 탄도미사일 합참",
+        "score": 0.695
+      },
+      {
+        "phrase": "북한의 탄도미사일 발사는",
+        "score": 0.6934
+      },
+      {
+        "phrase": "미사일 시험발사",
+        "score": 0.6909
+      },
+      {
+        "phrase": "다탄두 미사일 시험",
+        "score": 0.6877
+      },
+      {
+        "phrase": "전술탄도미사일 시험발사 북한은",
+        "score": 0.6868
+      },
+      {
+        "phrase": "북한 탄도미사일 도발",
+        "score": 0.6846
+      },
+      {
+        "phrase": "북한은 성공적인",
+        "score": 0.6831
+      },
+      {
+        "phrase": "미사일 발사시험",
+        "score": 0.6828
+      },
+      {
+        "phrase": "북한의 미사일 발사",
+        "score": 0.679
+      },
+      {
+        "phrase": "북한의 탄도미사일 발사",
+        "score": 0.6784
+      },
+      {
+        "phrase": "북한의 탄도미사일 발사를",
+        "score": 0.6781
+      },
+      {
+        "phrase": "북한의 미사일 개발",
+        "score": 0.6775
+      },
+      {
+        "phrase": "북한의 최근 탄도미사일",
+        "score": 0.6773
+      },
+      {
+        "phrase": "초대형탄두 미사일 시험",
+        "score": 0.6772
+      },
+      {
+        "phrase": "기간 북한의 미사일",
+        "score": 0.6763
+      },
+      {
+        "phrase": "미사일 시험",
+        "score": 0.6759
+      },
+      {
+        "phrase": "북한의 탄도미사일 발사가",
+        "score": 0.6756
+      },
+      {
+        "phrase": "북한의 미사일 발사가",
+        "score": 0.6737
+      },
+      {
+        "phrase": "미사일 시험 의문",
+        "score": 0.6729
+      },
+      {
+        "phrase": "전술탄도미사일 시험",
+        "score": 0.6729
+      },
+      {
+        "phrase": "초대형탄두 미사일 시험발사",
+        "score": 0.6717
+      },
+      {
+        "phrase": "북한의 탄도미사일 2발",
+        "score": 0.6713
+      }
+    ]
+  },
+  "pairwise_metrics": {
+    "tfidf_vs_textrank": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "tfidf_vs_yake": {
+      "jaccard_phrase": 0.091,
+      "jaccard_token": 0.143,
+      "spearman_rank_on_common": 0.7,
+      "intersection_top": [
+        {
+          "phrase": "올림픽",
+          "rank_in_tfidf": 5,
+          "rank_in_yake": 9
+        },
+        {
+          "phrase": "확성기",
+          "rank_in_tfidf": 8,
+          "rank_in_yake": 13
+        },
+        {
+          "phrase": "프랑스",
+          "rank_in_tfidf": 15,
+          "rank_in_yake": 21
+        },
+        {
+          "phrase": "탄도미사일",
+          "rank_in_tfidf": 29,
+          "rank_in_yake": 14
+        },
+        {
+          "phrase": "카톡 라인",
+          "rank_in_tfidf": 25,
+          "rank_in_yake": 26
+        }
+      ]
+    },
+    "tfidf_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.043,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_yake": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "textrank_vs_keybert": {
+      "jaccard_phrase": 0.0,
+      "jaccard_token": 0.0,
+      "spearman_rank_on_common": null,
+      "intersection_top": []
+    },
+    "yake_vs_keybert": {
+      "jaccard_phrase": 0.017,
+      "jaccard_token": 0.106,
+      "spearman_rank_on_common": null,
+      "intersection_top": [
+        {
+          "phrase": "북한의 탄도미사일 발사가",
+          "rank_in_yake": 17,
+          "rank_in_keybert": 25
+        }
+      ]
+    }
+  }
+}
