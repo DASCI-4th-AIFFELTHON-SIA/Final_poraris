@@ -1,0 +1,2 @@
+﻿macro_precision,macro_recall,macro_f1,micro_precision,micro_recall,micro_f1,sum_TP,sum_FP,sum_FN,sum_truth_items,sum_pred_items
+0.724,0.602,0.629,0.645,0.526,0.58,20,11,18,38,31
