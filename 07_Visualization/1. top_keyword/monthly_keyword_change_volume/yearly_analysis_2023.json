@@ -1,0 +1,1783 @@
+{
+  "year": 2023,
+  "analysis_date": "2025-09-08T06:27:55.076730",
+  "monthly_changes": {
+    "01": {
+      "month": 1,
+      "current_data_info": {
+        "year": 2023,
+        "month": 1,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "전원 회의",
+          "current_doc_count": 110,
+          "current_score": 37.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 110,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "영공 침범",
+          "current_doc_count": 91,
+          "current_score": 33.4,
+          "previous_doc_count": 154,
+          "previous_score": 60.1,
+          "change": -63,
+          "change_percent": -40.9,
+          "matched_phrase": "영공 침범",
+          "status": "감소"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "무인기 대응",
+          "current_doc_count": 63,
+          "current_score": 22.2,
+          "previous_doc_count": 99,
+          "previous_score": 35.1,
+          "change": -36,
+          "change_percent": -36.4,
+          "matched_phrase": "무인기 침범",
+          "status": "감소"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "급수 늘리다",
+          "current_doc_count": 32,
+          "current_score": 11.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 32,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "탄도미사일 발사",
+          "current_doc_count": 35,
+          "current_score": 11.0,
+          "previous_doc_count": 131,
+          "previous_score": 49.4,
+          "change": -96,
+          "change_percent": -73.3,
+          "matched_phrase": "탄도미사일 발사",
+          "status": "감소"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "회의 결정",
+          "current_doc_count": 33,
+          "current_score": 9.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 33,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "금지 구역 침범",
+          "current_doc_count": 17,
+          "current_score": 6.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 17,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "군사 합의",
+          "current_doc_count": 20,
+          "current_score": 6.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "결정 관철",
+          "current_doc_count": 16,
+          "current_score": 4.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "가능성 제기",
+          "current_doc_count": 16,
+          "current_score": 4.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 7,
+        "increased": 0,
+        "decreased": 3,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "전원 회의",
+          "change": 110,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "탄도미사일 발사",
+          "change": -96,
+          "change_percent": -73.3
+        },
+        "avg_doc_count": 43.3
+      }
+    },
+    "02": {
+      "month": 2,
+      "current_data_info": {
+        "year": 2023,
+        "month": 2,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "탄도미사일 발사",
+          "current_doc_count": 169,
+          "current_score": 63.1,
+          "previous_doc_count": 35,
+          "previous_score": 11.0,
+          "change": 134,
+          "change_percent": 382.9,
+          "matched_phrase": "탄도미사일 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "연합 훈련",
+          "current_doc_count": 162,
+          "current_score": 58.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 162,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "시험 발사",
+          "current_doc_count": 79,
+          "current_score": 27.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 79,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "결의 위반",
+          "current_doc_count": 38,
+          "current_score": 13.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 38,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "광장 열리다",
+          "current_doc_count": 32,
+          "current_score": 11.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 32,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "발사 대응",
+          "current_doc_count": 33,
+          "current_score": 10.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 33,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "주년 기념",
+          "current_doc_count": 26,
+          "current_score": 8.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 26,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "북한 미사일 발사",
+          "current_doc_count": 17,
+          "current_score": 6.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 17,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "훈련 진행",
+          "current_doc_count": 19,
+          "current_score": 6.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 19,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "열병 개최",
+          "current_doc_count": 17,
+          "current_score": 5.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 17,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 9,
+        "increased": 1,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "연합 훈련",
+          "change": 162,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 59.2
+      }
+    },
+    "03": {
+      "month": 3,
+      "current_data_info": {
+        "year": 2023,
+        "month": 3,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "탄도미사일 발사",
+          "current_doc_count": 366,
+          "current_score": 138.9,
+          "previous_doc_count": 169,
+          "previous_score": 63.1,
+          "change": 197,
+          "change_percent": 116.6,
+          "matched_phrase": "탄도미사일 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "연합 훈련",
+          "current_doc_count": 210,
+          "current_score": 78.0,
+          "previous_doc_count": 162,
+          "previous_score": 58.8,
+          "change": 48,
+          "change_percent": 29.6,
+          "matched_phrase": "연합 훈련",
+          "status": "증가"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "화성 발사",
+          "current_doc_count": 105,
+          "current_score": 37.5,
+          "previous_doc_count": 79,
+          "previous_score": 27.1,
+          "change": 26,
+          "change_percent": 32.9,
+          "matched_phrase": "시험 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "국무위원 참관",
+          "current_doc_count": 50,
+          "current_score": 18.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 50,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "폭발 시험",
+          "current_doc_count": 41,
+          "current_score": 14.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 41,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "무력 도발",
+          "current_doc_count": 34,
+          "current_score": 12.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 34,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "북한 미사일 발사",
+          "current_doc_count": 29,
+          "current_score": 11.6,
+          "previous_doc_count": 17,
+          "previous_score": 6.8,
+          "change": 12,
+          "change_percent": 70.6,
+          "matched_phrase": "북한 미사일 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "전략 순항미사일 발사",
+          "current_doc_count": 24,
+          "current_score": 9.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 24,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "공중 폭발",
+          "current_doc_count": 25,
+          "current_score": 8.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 25,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "훈련 진행",
+          "current_doc_count": 25,
+          "current_score": 8.5,
+          "previous_doc_count": 19,
+          "previous_score": 6.1,
+          "change": 6,
+          "change_percent": 31.6,
+          "matched_phrase": "훈련 진행",
+          "status": "증가"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 5,
+        "increased": 5,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "탄도미사일 발사",
+          "change": 197,
+          "change_percent": 116.6
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 90.9
+      }
+    },
+    "04": {
+      "month": 4,
+      "current_data_info": {
+        "year": 2023,
+        "month": 4,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "시험 발사",
+          "current_doc_count": 90,
+          "current_score": 34.5,
+          "previous_doc_count": 105,
+          "previous_score": 37.5,
+          "change": -15,
+          "change_percent": -14.3,
+          "matched_phrase": "화성 발사",
+          "status": "감소"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "탄도미사일 발사",
+          "current_doc_count": 85,
+          "current_score": 31.0,
+          "previous_doc_count": 366,
+          "previous_score": 138.9,
+          "change": -281,
+          "change_percent": -76.8,
+          "matched_phrase": "탄도미사일 발사",
+          "status": "감소"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "위협 대응",
+          "current_doc_count": 38,
+          "current_score": 13.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 38,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "북한 미사일 위협",
+          "current_doc_count": 36,
+          "current_score": 12.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 36,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "확장 억제",
+          "current_doc_count": 32,
+          "current_score": 11.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 32,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "정찰위성 발사",
+          "current_doc_count": 31,
+          "current_score": 10.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 31,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "연료 사용",
+          "current_doc_count": 28,
+          "current_score": 9.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 28,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "결의 위반",
+          "current_doc_count": 28,
+          "current_score": 9.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 28,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "시험 진행",
+          "current_doc_count": 20,
+          "current_score": 8.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "화성 시험",
+          "current_doc_count": 18,
+          "current_score": 5.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 18,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 0,
+        "decreased": 2,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "위협 대응",
+          "change": 38,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "탄도미사일 발사",
+          "change": -281,
+          "change_percent": -76.8
+        },
+        "avg_doc_count": 40.6
+      }
+    },
+    "05": {
+      "month": 5,
+      "current_data_info": {
+        "year": 2023,
+        "month": 5,
+        "total_keywords": 11
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "정찰위성 발사",
+          "current_doc_count": 202,
+          "current_score": 74.8,
+          "previous_doc_count": 31,
+          "previous_score": 10.9,
+          "change": 171,
+          "change_percent": 551.6,
+          "matched_phrase": "정찰위성 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "발사 준비",
+          "current_doc_count": 94,
+          "current_score": 33.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 94,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "인공위성 발사",
+          "current_doc_count": 69,
+          "current_score": 27.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 69,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "사업 현지",
+          "current_doc_count": 56,
+          "current_score": 20.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 56,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "계획 승인",
+          "current_doc_count": 46,
+          "current_score": 16.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 46,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "결의 위반",
+          "current_doc_count": 35,
+          "current_score": 12.5,
+          "previous_doc_count": 28,
+          "previous_score": 9.7,
+          "change": 7,
+          "change_percent": 25.0,
+          "matched_phrase": "결의 위반",
+          "status": "증가"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "기술 활용",
+          "current_doc_count": 30,
+          "current_score": 10.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 30,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "호기 발사",
+          "current_doc_count": 18,
+          "current_score": 5.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 18,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "비상 위성 발사",
+          "current_doc_count": 12,
+          "current_score": 4.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 12,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "탑재 준비 완료",
+          "current_doc_count": 11,
+          "current_score": 4.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 11,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 2,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "정찰위성 발사",
+          "change": 171,
+          "change_percent": 551.6
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 57.3
+      }
+    },
+    "06": {
+      "month": 6,
+      "current_data_info": {
+        "year": 2023,
+        "month": 6,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "위성 발사",
+          "current_doc_count": 166,
+          "current_score": 63.4,
+          "previous_doc_count": 202,
+          "previous_score": 74.8,
+          "change": -36,
+          "change_percent": -17.8,
+          "matched_phrase": "정찰위성 발사",
+          "status": "감소"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "결의 위반",
+          "current_doc_count": 66,
+          "current_score": 24.9,
+          "previous_doc_count": 35,
+          "previous_score": 12.5,
+          "change": 31,
+          "change_percent": 88.6,
+          "matched_phrase": "결의 위반",
+          "status": "증가"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "발사 규탄",
+          "current_doc_count": 70,
+          "current_score": 23.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 70,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "정찰위성 발사",
+          "current_doc_count": 58,
+          "current_score": 23.2,
+          "previous_doc_count": 202,
+          "previous_score": 74.8,
+          "change": -144,
+          "change_percent": -71.3,
+          "matched_phrase": "정찰위성 발사",
+          "status": "감소"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "탄도미사일 발사",
+          "current_doc_count": 61,
+          "current_score": 21.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 61,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "잔해 인양",
+          "current_doc_count": 34,
+          "current_score": 12.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 34,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "기술 이용",
+          "current_doc_count": 24,
+          "current_score": 9.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 24,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "대북 제재",
+          "current_doc_count": 31,
+          "current_score": 9.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 31,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "동창 발사",
+          "current_doc_count": 23,
+          "current_score": 9.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 23,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "천리마 발사",
+          "current_doc_count": 25,
+          "current_score": 8.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 25,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 7,
+        "increased": 1,
+        "decreased": 2,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "발사 규탄",
+          "change": 70,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "정찰위성 발사",
+          "change": -144,
+          "change_percent": -71.3
+        },
+        "avg_doc_count": 55.8
+      }
+    },
+    "07": {
+      "month": 7,
+      "current_data_info": {
+        "year": 2023,
+        "month": 7,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "탄도미사일 발사",
+          "current_doc_count": 193,
+          "current_score": 72.7,
+          "previous_doc_count": 61,
+          "previous_score": 21.4,
+          "change": 132,
+          "change_percent": 216.4,
+          "matched_phrase": "탄도미사일 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "동해 발사",
+          "current_doc_count": 86,
+          "current_score": 29.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 86,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "확장 억제",
+          "current_doc_count": 56,
+          "current_score": 20.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 56,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "북한 발사",
+          "current_doc_count": 37,
+          "current_score": 14.8,
+          "previous_doc_count": 16,
+          "previous_score": 6.4,
+          "change": 21,
+          "change_percent": 131.2,
+          "matched_phrase": "북한 미사일 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "한미 협의",
+          "current_doc_count": 42,
+          "current_score": 13.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 42,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "결의 위반",
+          "current_doc_count": 33,
+          "current_score": 11.7,
+          "previous_doc_count": 66,
+          "previous_score": 24.9,
+          "change": -33,
+          "change_percent": -50.0,
+          "matched_phrase": "결의 위반",
+          "status": "감소"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "전승 부르다",
+          "current_doc_count": 31,
+          "current_score": 10.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 31,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "미사일 도발",
+          "current_doc_count": 32,
+          "current_score": 9.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 32,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "열병 개최",
+          "current_doc_count": 20,
+          "current_score": 6.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "화성 시험 발사",
+          "current_doc_count": 16,
+          "current_score": 6.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 7,
+        "increased": 2,
+        "decreased": 1,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "탄도미사일 발사",
+          "change": 132,
+          "change_percent": 216.4
+        },
+        "biggest_decrease": {
+          "phrase": "결의 위반",
+          "change": -33,
+          "change_percent": -50.0
+        },
+        "avg_doc_count": 54.6
+      }
+    },
+    "08": {
+      "month": 8,
+      "current_data_info": {
+        "year": 2023,
+        "month": 8,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "정찰위성 발사",
+          "current_doc_count": 197,
+          "current_score": 72.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 197,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "북한 발사",
+          "current_doc_count": 55,
+          "current_score": 22.0,
+          "previous_doc_count": 37,
+          "previous_score": 14.8,
+          "change": 18,
+          "change_percent": 48.6,
+          "matched_phrase": "북한 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "결의 위반",
+          "current_doc_count": 46,
+          "current_score": 16.9,
+          "previous_doc_count": 33,
+          "previous_score": 11.7,
+          "change": 13,
+          "change_percent": 39.4,
+          "matched_phrase": "결의 위반",
+          "status": "증가"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "국경 개방",
+          "current_doc_count": 44,
+          "current_score": 14.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 44,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "발사 시도",
+          "current_doc_count": 41,
+          "current_score": 13.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 41,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "한미 정상",
+          "current_doc_count": 37,
+          "current_score": 13.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 37,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "방향 발사",
+          "current_doc_count": 26,
+          "current_score": 8.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 26,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "회의 개최",
+          "current_doc_count": 20,
+          "current_score": 5.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "우주발사체 발사",
+          "current_doc_count": 16,
+          "current_score": 4.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "인공위성 발사 따르다",
+          "current_doc_count": 12,
+          "current_score": 4.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 12,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 2,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "정찰위성 발사",
+          "change": 197,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 49.4
+      }
+    },
+    "09": {
+      "month": 9,
+      "current_data_info": {
+        "year": 2023,
+        "month": 9,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "북러 정상회담",
+          "current_doc_count": 101,
+          "current_score": 36.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 101,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "정권 수립",
+          "current_doc_count": 76,
+          "current_score": 28.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 76,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "아시안 게임 북한",
+          "current_doc_count": 41,
+          "current_score": 16.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 41,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "보스 치다",
+          "current_doc_count": 43,
+          "current_score": 15.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 43,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "러시아 방문",
+          "current_doc_count": 38,
+          "current_score": 14.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 38,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "탄도미사일 발사",
+          "current_doc_count": 39,
+          "current_score": 14.1,
+          "previous_doc_count": 15,
+          "previous_score": 4.5,
+          "change": 24,
+          "change_percent": 160.0,
+          "matched_phrase": "미사일 발사",
+          "status": "증가"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "안보리 결의",
+          "current_doc_count": 39,
+          "current_score": 14.1,
+          "previous_doc_count": 46,
+          "previous_score": 16.9,
+          "change": -7,
+          "change_percent": -15.2,
+          "matched_phrase": "결의 위반",
+          "status": "감소"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "체육관 열리다",
+          "current_doc_count": 41,
+          "current_score": 13.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 41,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "군사 협력",
+          "current_doc_count": 33,
+          "current_score": 11.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 33,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "러시아 대통령 정상회담",
+          "current_doc_count": 30,
+          "current_score": 11.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 30,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 1,
+        "decreased": 1,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "북러 정상회담",
+          "change": 101,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "안보리 결의",
+          "change": -7,
+          "change_percent": -15.2
+        },
+        "avg_doc_count": 48.1
+      }
+    },
+    "10": {
+      "month": 10,
+      "current_data_info": {
+        "year": 2023,
+        "month": 10,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "센터 열리다",
+          "current_doc_count": 53,
+          "current_score": 18.2,
+          "previous_doc_count": 41,
+          "previous_score": 13.4,
+          "change": 12,
+          "change_percent": 29.3,
+          "matched_phrase": "체육관 열리다",
+          "status": "증가"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "귀순 의사",
+          "current_doc_count": 35,
+          "current_score": 14.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 35,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "강제 북송",
+          "current_doc_count": 29,
+          "current_score": 10.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 29,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "북러 정상회담",
+          "current_doc_count": 25,
+          "current_score": 8.5,
+          "previous_doc_count": 101,
+          "previous_score": 36.4,
+          "change": -76,
+          "change_percent": -75.2,
+          "matched_phrase": "북러 정상회담",
+          "status": "감소"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "아시안 게임 북한",
+          "current_doc_count": 18,
+          "current_score": 7.2,
+          "previous_doc_count": 41,
+          "previous_score": 16.4,
+          "change": -23,
+          "change_percent": -56.1,
+          "matched_phrase": "아시안 게임 북한",
+          "status": "감소"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "탈북민 강제",
+          "current_doc_count": 19,
+          "current_score": 6.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 19,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "무기 사용",
+          "current_doc_count": 18,
+          "current_score": 5.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 18,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "기습 공격",
+          "current_doc_count": 18,
+          "current_score": 5.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 18,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "현지 시간",
+          "current_doc_count": 13,
+          "current_score": 5.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 13,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "용상 합계 들다",
+          "current_doc_count": 9,
+          "current_score": 3.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 9,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 7,
+        "increased": 1,
+        "decreased": 2,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "귀순 의사",
+          "change": 35,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "북러 정상회담",
+          "change": -76,
+          "change_percent": -75.2
+        },
+        "avg_doc_count": 23.7
+      }
+    },
+    "11": {
+      "month": 11,
+      "current_data_info": {
+        "year": 2023,
+        "month": 11,
+        "total_keywords": 11
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "정찰위성 발사",
+          "current_doc_count": 410,
+          "current_score": 159.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 410,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "효력 정지",
+          "current_doc_count": 102,
+          "current_score": 39.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 102,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "성공 발사",
+          "current_doc_count": 90,
+          "current_score": 31.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 90,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "결의 위반",
+          "current_doc_count": 66,
+          "current_score": 24.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 66,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "궤도 진입",
+          "current_doc_count": 60,
+          "current_score": 22.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 60,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "북한 발사",
+          "current_doc_count": 40,
+          "current_score": 16.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 40,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "파기 선언",
+          "current_doc_count": 42,
+          "current_score": 15.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 42,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "계획 통보",
+          "current_doc_count": 36,
+          "current_score": 12.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 36,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "군사 협력",
+          "current_doc_count": 33,
+          "current_score": 11.7,
+          "previous_doc_count": 11,
+          "previous_score": 2.9,
+          "change": 22,
+          "change_percent": 200.0,
+          "matched_phrase": "군사 협력",
+          "status": "증가"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "호기 만리 발사",
+          "current_doc_count": 15,
+          "current_score": 6.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 15,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 9,
+        "increased": 1,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "정찰위성 발사",
+          "change": 410,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 89.4
+      }
+    },
+    "12": {
+      "month": 12,
+      "current_data_info": {
+        "year": 2023,
+        "month": 12,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "탄도미사일 발사",
+          "current_doc_count": 118,
+          "current_score": 44.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 118,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "정찰위성 발사",
+          "current_doc_count": 60,
+          "current_score": 21.0,
+          "previous_doc_count": 410,
+          "previous_score": 159.6,
+          "change": -350,
+          "change_percent": -85.4,
+          "matched_phrase": "정찰위성 발사",
+          "status": "감소"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "정보 공유",
+          "current_doc_count": 60,
+          "current_score": 21.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 60,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "결의 위반",
+          "current_doc_count": 42,
+          "current_score": 15.3,
+          "previous_doc_count": 66,
+          "previous_score": 24.9,
+          "change": -24,
+          "change_percent": -36.4,
+          "matched_phrase": "결의 위반",
+          "status": "감소"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "대륙간탄도미사일 발사",
+          "current_doc_count": 28,
+          "current_score": 11.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 28,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "방안 논의",
+          "current_doc_count": 35,
+          "current_score": 10.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 35,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "시험 발사",
+          "current_doc_count": 33,
+          "current_score": 10.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 33,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "미사일 위협",
+          "current_doc_count": 28,
+          "current_score": 9.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 28,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "발사 규탄",
+          "current_doc_count": 19,
+          "current_score": 6.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 19,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "한미 협의",
+          "current_doc_count": 15,
+          "current_score": 4.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 15,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 0,
+        "decreased": 2,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "탄도미사일 발사",
+          "change": 118,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "정찰위성 발사",
+          "change": -350,
+          "change_percent": -85.4
+        },
+        "avg_doc_count": 43.8
+      }
+    }
+  },
+  "yearly_summary": {
+    "analyzed_months": 12,
+    "avg_keywords_per_month": 10.0,
+    "total_new_keywords": 91,
+    "avg_new_keywords_per_month": 7.583333333333333,
+    "most_volatile_month": 10,
+    "avg_doc_count_trend": [
+      43.3,
+      59.2,
+      90.9,
+      40.6,
+      57.3,
+      55.8,
+      54.6,
+      49.4,
+      48.1,
+      23.7,
+      89.4,
+      43.8
+    ]
+  }
+}

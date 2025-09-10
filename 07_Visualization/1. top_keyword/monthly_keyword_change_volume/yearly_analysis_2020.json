@@ -1,0 +1,1783 @@
+{
+  "year": 2020,
+  "analysis_date": "2025-09-08T06:28:05.764246",
+  "monthly_changes": {
+    "01": {
+      "month": 1,
+      "current_data_info": {
+        "year": 2020,
+        "month": 1,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "전원 회의",
+          "current_doc_count": 149,
+          "current_score": 54.1,
+          "previous_doc_count": 43,
+          "previous_score": 14.7,
+          "change": 106,
+          "change_percent": 246.5,
+          "matched_phrase": "전원 회의",
+          "status": "증가"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "정면 돌파",
+          "current_doc_count": 49,
+          "current_score": 18.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 49,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "대북 제재",
+          "current_doc_count": 44,
+          "current_score": 16.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 44,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "폐렴 확산",
+          "current_doc_count": 38,
+          "current_score": 13.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 38,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "노동당 회의",
+          "current_doc_count": 35,
+          "current_score": 11.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 35,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "북미 대화",
+          "current_doc_count": 31,
+          "current_score": 10.9,
+          "previous_doc_count": 85,
+          "previous_score": 31.0,
+          "change": -54,
+          "change_percent": -63.5,
+          "matched_phrase": "북미 대화",
+          "status": "감소"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "조선 중앙 늘다",
+          "current_doc_count": 25,
+          "current_score": 10.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 25,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "회의 제시",
+          "current_doc_count": 35,
+          "current_score": 9.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 35,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "과업 관철",
+          "current_doc_count": 28,
+          "current_score": 8.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 28,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "감염증 막다",
+          "current_doc_count": 24,
+          "current_score": 8.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 24,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 1,
+        "decreased": 1,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "전원 회의",
+          "change": 106,
+          "change_percent": 246.5
+        },
+        "biggest_decrease": {
+          "phrase": "북미 대화",
+          "change": -54,
+          "change_percent": -63.5
+        },
+        "avg_doc_count": 45.8
+      }
+    },
+    "02": {
+      "month": 2,
+      "current_data_info": {
+        "year": 2020,
+        "month": 2,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "코로나 확산",
+          "current_doc_count": 132,
+          "current_score": 43.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 132,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "감염증 막다",
+          "current_doc_count": 52,
+          "current_score": 19.3,
+          "previous_doc_count": 24,
+          "previous_score": 8.1,
+          "change": 28,
+          "change_percent": 116.7,
+          "matched_phrase": "감염증 막다",
+          "status": "증가"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "대외 선전",
+          "current_doc_count": 46,
+          "current_score": 15.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 46,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "혁명 전적 답사",
+          "current_doc_count": 32,
+          "current_score": 11.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 32,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "마스크 착용",
+          "current_doc_count": 26,
+          "current_score": 8.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 26,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "정면 돌파",
+          "current_doc_count": 24,
+          "current_score": 8.1,
+          "previous_doc_count": 49,
+          "previous_score": 18.1,
+          "change": -25,
+          "change_percent": -51.0,
+          "matched_phrase": "정면 돌파",
+          "status": "감소"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "전파 막다",
+          "current_doc_count": 26,
+          "current_score": 7.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 26,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "기관지 노동신문 보도",
+          "current_doc_count": 16,
+          "current_score": 6.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "눈길 끌다",
+          "current_doc_count": 16,
+          "current_score": 4.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "발생 않다",
+          "current_doc_count": 16,
+          "current_score": 4.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 1,
+        "decreased": 1,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "코로나 확산",
+          "change": 132,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "정면 돌파",
+          "change": -25,
+          "change_percent": -51.0
+        },
+        "avg_doc_count": 38.6
+      }
+    },
+    "03": {
+      "month": 3,
+      "current_data_info": {
+        "year": 2020,
+        "month": 3,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "발사체 발사",
+          "current_doc_count": 248,
+          "current_score": 93.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 248,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "탄도미사일 추정",
+          "current_doc_count": 85,
+          "current_score": 32.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 85,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "동해 발사",
+          "current_doc_count": 68,
+          "current_score": 22.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 68,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "코로나 대응",
+          "current_doc_count": 64,
+          "current_score": 22.6,
+          "previous_doc_count": 132,
+          "previous_score": 43.8,
+          "change": -68,
+          "change_percent": -51.5,
+          "matched_phrase": "코로나 확산",
+          "status": "감소"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "방사포 발사",
+          "current_doc_count": 41,
+          "current_score": 16.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 41,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "훈련 지도",
+          "current_doc_count": 34,
+          "current_score": 12.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 34,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "영상 확인",
+          "current_doc_count": 22,
+          "current_score": 7.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 22,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "격리 해제",
+          "current_doc_count": 20,
+          "current_score": 6.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "눈길 끌다",
+          "current_doc_count": 19,
+          "current_score": 6.1,
+          "previous_doc_count": 16,
+          "previous_score": 4.9,
+          "change": 3,
+          "change_percent": 18.8,
+          "matched_phrase": "눈길 끌다",
+          "status": "증가"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "발사체 포착 밝히다",
+          "current_doc_count": 14,
+          "current_score": 5.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 14,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 1,
+        "decreased": 1,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "발사체 발사",
+          "change": 248,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "코로나 대응",
+          "change": -68,
+          "change_percent": -51.5
+        },
+        "avg_doc_count": 61.5
+      }
+    },
+    "04": {
+      "month": 4,
+      "current_data_info": {
+        "year": 2020,
+        "month": 4,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "코로나 대응",
+          "current_doc_count": 44,
+          "current_score": 14.6,
+          "previous_doc_count": 64,
+          "previous_score": 22.6,
+          "change": -20,
+          "change_percent": -31.2,
+          "matched_phrase": "코로나 대응",
+          "status": "감소"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "회의 개최",
+          "current_doc_count": 47,
+          "current_score": 12.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 47,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "영상 확인",
+          "current_doc_count": 26,
+          "current_score": 8.9,
+          "previous_doc_count": 22,
+          "previous_score": 7.3,
+          "change": 4,
+          "change_percent": 18.2,
+          "matched_phrase": "영상 확인",
+          "status": "증가"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "동향 식별",
+          "current_doc_count": 17,
+          "current_score": 6.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 17,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "순항미사일 추정",
+          "current_doc_count": 20,
+          "current_score": 6.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "코로나 확산",
+          "current_doc_count": 15,
+          "current_score": 6.0,
+          "previous_doc_count": 64,
+          "previous_score": 22.6,
+          "change": -49,
+          "change_percent": -76.6,
+          "matched_phrase": "코로나 대응",
+          "status": "감소"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "발사체 발사",
+          "current_doc_count": 17,
+          "current_score": 5.3,
+          "previous_doc_count": 248,
+          "previous_score": 93.2,
+          "change": -231,
+          "change_percent": -93.1,
+          "matched_phrase": "발사체 발사",
+          "status": "감소"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "순항미사일 발사",
+          "current_doc_count": 18,
+          "current_score": 4.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 18,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "위원 임명",
+          "current_doc_count": 10,
+          "current_score": 4.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 10,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "건강 이상설 보도",
+          "current_doc_count": 8,
+          "current_score": 3.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 8,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 6,
+        "increased": 1,
+        "decreased": 3,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "회의 개최",
+          "change": 47,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "발사체 발사",
+          "change": -231,
+          "change_percent": -93.1
+        },
+        "avg_doc_count": 22.2
+      }
+    },
+    "05": {
+      "month": 5,
+      "current_data_info": {
+        "year": 2020,
+        "month": 5,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "영상 확인 줄다",
+          "current_doc_count": 40,
+          "current_score": 13.0,
+          "previous_doc_count": 26,
+          "previous_score": 8.9,
+          "change": 14,
+          "change_percent": 53.8,
+          "matched_phrase": "영상 확인",
+          "status": "증가"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "코로나 대응",
+          "current_doc_count": 26,
+          "current_score": 7.4,
+          "previous_doc_count": 44,
+          "previous_score": 14.6,
+          "change": -18,
+          "change_percent": -40.9,
+          "matched_phrase": "코로나 대응",
+          "status": "감소"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "지진 발생",
+          "current_doc_count": 22,
+          "current_score": 7.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 22,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "위원회 확대",
+          "current_doc_count": 20,
+          "current_score": 6.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "합의 위반",
+          "current_doc_count": 18,
+          "current_score": 5.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 18,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "준공 참석",
+          "current_doc_count": 16,
+          "current_score": 4.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "대응 사격",
+          "current_doc_count": 15,
+          "current_score": 4.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 15,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "보이지 않다",
+          "current_doc_count": 15,
+          "current_score": 4.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 15,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "공개 활동",
+          "current_doc_count": 13,
+          "current_score": 3.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 13,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "현지 시간 밝히다",
+          "current_doc_count": 7,
+          "current_score": 2.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 7,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 8,
+        "increased": 1,
+        "decreased": 1,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "지진 발생",
+          "change": 22,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "코로나 대응",
+          "change": -18,
+          "change_percent": -40.9
+        },
+        "avg_doc_count": 19.2
+      }
+    },
+    "06": {
+      "month": 6,
+      "current_data_info": {
+        "year": 2020,
+        "month": 6,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "전단 살포",
+          "current_doc_count": 365,
+          "current_score": 143.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 365,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "사무소 폭파",
+          "current_doc_count": 307,
+          "current_score": 121.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 307,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "군사 행동",
+          "current_doc_count": 262,
+          "current_score": 100.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 262,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "남북 합의 군사",
+          "current_doc_count": 113,
+          "current_score": 43.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 113,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "합의 파기",
+          "current_doc_count": 92,
+          "current_score": 35.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 92,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "행동 계획",
+          "current_doc_count": 60,
+          "current_score": 21.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 60,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "판문점 선언",
+          "current_doc_count": 54,
+          "current_score": 20.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 54,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "연락선 차단",
+          "current_doc_count": 51,
+          "current_score": 18.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 51,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "긴장 고조",
+          "current_doc_count": 40,
+          "current_score": 14.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 40,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "대남 비난",
+          "current_doc_count": 37,
+          "current_score": 13.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 37,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 10,
+        "increased": 0,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "전단 살포",
+          "change": 365,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 138.1
+      }
+    },
+    "07": {
+      "month": 7,
+      "current_data_info": {
+        "year": 2020,
+        "month": 7,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "코로나 감염 의심",
+          "current_doc_count": 74,
+          "current_score": 25.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 74,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "마주 앉다",
+          "current_doc_count": 28,
+          "current_score": 9.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 28,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "영상 확인",
+          "current_doc_count": 22,
+          "current_score": 7.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 22,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "국무위원 주재",
+          "current_doc_count": 20,
+          "current_score": 6.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "코로나 대응",
+          "current_doc_count": 16,
+          "current_score": 4.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "탈북민 월북",
+          "current_doc_count": 15,
+          "current_score": 4.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 15,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "남북 협력",
+          "current_doc_count": 15,
+          "current_score": 4.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 15,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "기관지 노동신문 보도",
+          "current_doc_count": 9,
+          "current_score": 3.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 9,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "금수산 궁전 참배",
+          "current_doc_count": 6,
+          "current_score": 2.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 6,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "비상 체제 격상",
+          "current_doc_count": 6,
+          "current_score": 2.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 6,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 10,
+        "increased": 0,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "코로나 감염 의심",
+          "change": 74,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 21.1
+      }
+    },
+    "08": {
+      "month": 8,
+      "current_data_info": {
+        "year": 2020,
+        "month": 8,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "수재민 지원",
+          "current_doc_count": 41,
+          "current_score": 14.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 41,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "황강 방류",
+          "current_doc_count": 34,
+          "current_score": 12.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 34,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "전시 유사시 사용 방문",
+          "current_doc_count": 30,
+          "current_score": 12.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 30,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "조선 중앙",
+          "current_doc_count": 27,
+          "current_score": 10.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 27,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "태풍 바비",
+          "current_doc_count": 23,
+          "current_score": 9.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 23,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "직접 방문",
+          "current_doc_count": 26,
+          "current_score": 8.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 26,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "수문 열다",
+          "current_doc_count": 32,
+          "current_score": 8.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 32,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "수위 조절",
+          "current_doc_count": 21,
+          "current_score": 6.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 21,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "식량 풀다",
+          "current_doc_count": 20,
+          "current_score": 6.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 20,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "폭우 동반 내리다",
+          "current_doc_count": 16,
+          "current_score": 6.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 16,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 10,
+        "increased": 0,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "수재민 지원",
+          "change": 41,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 27.0
+      }
+    },
+    "09": {
+      "month": 9,
+      "current_data_info": {
+        "year": 2020,
+        "month": 9,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "공무원 피격",
+          "current_doc_count": 117,
+          "current_score": 40.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 117,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "피격 사망",
+          "current_doc_count": 103,
+          "current_score": 38.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 103,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "해상 실종",
+          "current_doc_count": 86,
+          "current_score": 32.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 86,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "실종 공무원 북한",
+          "current_doc_count": 75,
+          "current_score": 30.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 75,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "시신 태우다",
+          "current_doc_count": 49,
+          "current_score": 18.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 49,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "피해 복구",
+          "current_doc_count": 49,
+          "current_score": 18.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 49,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "해역 발견",
+          "current_doc_count": 37,
+          "current_score": 13.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 37,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "총격 가",
+          "current_doc_count": 24,
+          "current_score": 8.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 24,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "공동 조사",
+          "current_doc_count": 21,
+          "current_score": 6.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 21,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "소연평도 실종",
+          "current_doc_count": 21,
+          "current_score": 6.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 21,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 10,
+        "increased": 0,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "공무원 피격",
+          "change": 117,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 58.2
+      }
+    },
+    "10": {
+      "month": 10,
+      "current_data_info": {
+        "year": 2020,
+        "month": 10,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "창건 주년",
+          "current_doc_count": 144,
+          "current_score": 56.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 144,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "신형 공개",
+          "current_doc_count": 97,
+          "current_score": 35.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 97,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "잠수함 발사",
+          "current_doc_count": 36,
+          "current_score": 12.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 36,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "본토 겨냥",
+          "current_doc_count": 33,
+          "current_score": 11.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 33,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "대륙간탄도미사일 공개",
+          "current_doc_count": 26,
+          "current_score": 8.9,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 26,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "공무원 피격",
+          "current_doc_count": 22,
+          "current_score": 7.3,
+          "previous_doc_count": 117,
+          "previous_score": 40.8,
+          "change": -95,
+          "change_percent": -81.2,
+          "matched_phrase": "공무원 피격",
+          "status": "감소"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "능력 갖추다",
+          "current_doc_count": 22,
+          "current_score": 7.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 22,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "덩치 커지다",
+          "current_doc_count": 18,
+          "current_score": 5.7,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 18,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "남북 관계",
+          "current_doc_count": 14,
+          "current_score": 4.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 14,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "미사일 길이 길어지다",
+          "current_doc_count": 9,
+          "current_score": 3.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 9,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 9,
+        "increased": 0,
+        "decreased": 1,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "창건 주년",
+          "change": 144,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "공무원 피격",
+          "change": -95,
+          "change_percent": -81.2
+        },
+        "avg_doc_count": 42.1
+      }
+    },
+    "11": {
+      "month": 11,
+      "current_data_info": {
+        "year": 2020,
+        "month": 11,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "신병 확보",
+          "current_doc_count": 22,
+          "current_score": 7.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 22,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "철책 넘다",
+          "current_doc_count": 25,
+          "current_score": 7.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 25,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "공식 초청",
+          "current_doc_count": 12,
+          "current_score": 4.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 12,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "장비 포착",
+          "current_doc_count": 14,
+          "current_score": 4.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 14,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "시간 오늘",
+          "current_doc_count": 8,
+          "current_score": 3.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 8,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "기관지 노동신문 보도",
+          "current_doc_count": 7,
+          "current_score": 2.8,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 7,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "대외 선전",
+          "current_doc_count": 10,
+          "current_score": 2.5,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 10,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "국무위원 방북 요청",
+          "current_doc_count": 6,
+          "current_score": 2.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 6,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "의사 전달 받다",
+          "current_doc_count": 6,
+          "current_score": 2.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 6,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "축전 보내다",
+          "current_doc_count": 9,
+          "current_score": 2.1,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 9,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 10,
+        "increased": 0,
+        "decreased": 0,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "철책 넘다",
+          "change": 25,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": null,
+        "avg_doc_count": 11.9
+      }
+    },
+    "12": {
+      "month": 12,
+      "current_data_info": {
+        "year": 2020,
+        "month": 12,
+        "total_keywords": 12
+      },
+      "changes": [
+        {
+          "rank": 1,
+          "current_phrase": "금강산관광 지구",
+          "current_doc_count": 11,
+          "current_score": 4.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 11,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 2,
+          "current_phrase": "대회 앞두다",
+          "current_doc_count": 12,
+          "current_score": 3.3,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 12,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 3,
+          "current_phrase": "영상 확인",
+          "current_doc_count": 8,
+          "current_score": 3.2,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 8,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 4,
+          "current_phrase": "인권 결의 채택",
+          "current_doc_count": 6,
+          "current_score": 2.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 6,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 5,
+          "current_phrase": "명단 포함",
+          "current_doc_count": 6,
+          "current_score": 2.4,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 6,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 6,
+          "current_phrase": "사업 현장 시찰",
+          "current_doc_count": 5,
+          "current_score": 2.0,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 5,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 7,
+          "current_phrase": "기관지 노동신문 보도",
+          "current_doc_count": 5,
+          "current_score": 2.0,
+          "previous_doc_count": 7,
+          "previous_score": 2.8,
+          "change": -2,
+          "change_percent": -28.6,
+          "matched_phrase": "기관지 노동신문 보도",
+          "status": "감소"
+        },
+        {
+          "rank": 8,
+          "current_phrase": "선박 제재 밝히다",
+          "current_doc_count": 4,
+          "current_score": 1.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 4,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 9,
+          "current_phrase": "노동당 대회 개최",
+          "current_doc_count": 4,
+          "current_score": 1.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 4,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        },
+        {
+          "rank": 10,
+          "current_phrase": "조선 중앙 늘다",
+          "current_doc_count": 4,
+          "current_score": 1.6,
+          "previous_doc_count": 0,
+          "previous_score": 0,
+          "change": 4,
+          "change_percent": "신규",
+          "matched_phrase": "없음",
+          "status": "신규"
+        }
+      ],
+      "stats": {
+        "total_keywords": 10,
+        "new_keywords": 9,
+        "increased": 0,
+        "decreased": 1,
+        "unchanged": 0,
+        "biggest_increase": {
+          "phrase": "대회 앞두다",
+          "change": 12,
+          "change_percent": "신규"
+        },
+        "biggest_decrease": {
+          "phrase": "기관지 노동신문 보도",
+          "change": -2,
+          "change_percent": -28.6
+        },
+        "avg_doc_count": 6.5
+      }
+    }
+  },
+  "yearly_summary": {
+    "analyzed_months": 12,
+    "avg_keywords_per_month": 10.0,
+    "total_new_keywords": 106,
+    "avg_new_keywords_per_month": 8.833333333333334,
+    "most_volatile_month": 10,
+    "avg_doc_count_trend": [
+      45.8,
+      38.6,
+      61.5,
+      22.2,
+      19.2,
+      138.1,
+      21.1,
+      27.0,
+      58.2,
+      42.1,
+      11.9,
+      6.5
+    ]
+  }
+}
